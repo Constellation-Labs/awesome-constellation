@@ -11,9 +11,9 @@
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-- :stars:[About Constellation](#about-constellation)
-- :two_hearts:[Community](#community)
-- :computer:[Development](#development)
+:stars:[About Constellation](#about-constellation)
+:two_hearts:[Community](#community)
+:computer:[Development](#development)
 	* [Code Base](#code-base)
 	* [Guidelines](#guidelines)
 	* [Documentation](#documentation)
@@ -23,20 +23,20 @@
 	* [Ledger Bootstrap Files](#ledger-bootstrap-files)
 	* [Network monitoring](#network-monitoring)
 	* [Languages](#languages)
-- :microscope:[Research](#research)
+:microscope:[Research](#research)
 	* [Resources](#resources)
 	* [Constellation Technical Papers](#constellation-technical-papers)
-- :art:[Design](#design)
+:art:[Design](#design)
 	* [Visual Identity](#visual-identity)
-- :moneybag:[Currency](#currency)
+:moneybag:[Currency](#currency)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
  	* [Merchandise](#merchandise)
-- :loudspeaker:[Media](#merchandise)
+:loudspeaker:[Media](#merchandise)
 	* [Article Outlets](#article-outlets)
 	* [News Outlets](#news-outlets)
 	* [General](#news-outlets)
-- :question:[FAQ](#fag)
+:question:[FAQ](#fag)
 	* [DAG Technology](#dag-technology)
 	* [Constellation](#constellation)
 
@@ -80,6 +80,7 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 
 ### Guidelines
 
+- Troubleshooting, bugs, tickets, support
 - code of conduct - (tbd)
 - naming conventions - (tbd)
 - branch logic - (tbd)
@@ -290,7 +291,7 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 [comment]: <Keep this concise!>
 
-##### Strategy
+##### Strategy & Partners
 
 (tbd)
 
@@ -298,9 +299,27 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 (tbd)
 
+##### Official Constellation Contacts & Employees
+
+- [Business inquery](support@constellationlabs.io) - (tbd)
+
+[Brion](https://www.linkedin.com/in/brionhickey/),
+[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/),
+[Tyler](https://www.linkedin.com/in/tylerprete/),
+[Preston](https://www.linkedin.com/in/prestonparris/),
+[mriggles](https://www.linkedin.com/in/mrdiggles/),
+[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
+[scarpulla11](https://www.linkedin.com/in/scarpulla11/),
+[James](https://www.linkedin.com/in/james-markotic/),
+[Gina](https://www.linkedin.com/in/ginarubino/),
+[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/)
+
 ##### Competitors
 
 Comparisons and reviews.
+
+[comment]: <This is not for advertisement but for development - possible problems with the Constellation solution should be explained in the same fashion as problems with other protocols.>
 
 (tbd)
 
