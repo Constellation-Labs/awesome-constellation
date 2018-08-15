@@ -29,7 +29,7 @@
 	* [Languages](#languages)
 - :microscope:[Research](#research)
 	* [Resources](#resources)
-	* [Constellation Technical Papers](#constellation-technical-papers)- 
+	* [Constellation Technical Papers](#constellation-technical-papers)
 - :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
  	* [Merchandise](#merchandise)
@@ -285,7 +285,7 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 ### Constellation
 
 #### Protocol
-- [Scaling through the HyloChain Consensus Architecture ] spec-rationality article](http://spec-rationality.com/constellation/)
+- [Scaling through the HyloChain Consensus Architecture | spec-rationality.com article](http://spec-rationality.com/constellation/)
 - not so technical explanation 1 - (tbd)
 - not so technical explanation 2 - (tbd)
 - fees, tps etc. - (tbd)
