@@ -11,9 +11,9 @@
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-- :stars: [About](#about)
-- :two_hearts: [Community](#community)
-- [Development](#development) :computer: 
+- :stars:[About](#about)
+- :two_hearts:[Community](#community)
+- :computer:[Development](#development)
 	* [Code base](#code-base)
 	* [Guidelines](#guidelines)
 	* [Documentation](#documentation)
@@ -23,20 +23,20 @@
 	* [Ledger Bootstrap Files](#ledger-bootstrap-files)
 	* [Network monitoring](#network-monitoring)
 	* [Languages](#languages)
-- :microscope: [Research](#research)
+- :microscope:[Research](#research)
 	* [Resources](#resources)
 	* [Constellation technical papers](#constellation-technical-papers)
-- :art: [Design](#design)
+- :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
 - :moneybag: [Currency](#currency)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
  	* [Merchandise](#merchandise)
-- :loudspeaker: [Media](#merchandise)
+- :loudspeaker:[Media](#merchandise)
 	* [Article outlets](#article-outlets)
 	* [News outlets](#news-outlets)
 	* [General](#news-outlets)
-- :question: [FAQ](#fag)
+- :question:[FAQ](#fag)
 	* [DAG technology](#dag-technology)
 	* [Constellation](#constellation)
 
