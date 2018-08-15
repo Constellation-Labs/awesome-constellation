@@ -71,9 +71,8 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 
 [comment]: <Listed in order of current relevance and what's being worked on.>
 
-- [Github root](https://github.com/Constellation-Labs) - Official public Consrellation repositories.
+- [Github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
-- [foo-project](https://github.com/tensorflow/tensorflow) - created by @userBar69.
 
 ### Guidelines
 
