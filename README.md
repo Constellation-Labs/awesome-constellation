@@ -21,7 +21,6 @@
 	* [Code Base](#code-base)
 	* [Guidelines](#guidelines)
 	* [Documentation](#documentation)
-	* [API](#api)
 	* [Tutorials](#tutorials)
 	* [SDK](#sdk)
 	* [Ledger Bootstrap Files](#ledger-bootstrap-files)
@@ -33,14 +32,14 @@
 - :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
  	* [Merchandise](#merchandise)
-- :moneybag:[Currency](#currency)
+- :moneybag:[DAG Token](#dag-token)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
 - :loudspeaker:[Media](#merchandise)
 	* [Article Outlets](#article-outlets)
 	* [News Outlets](#news-outlets)
 	* [General](#news-outlets)
-- :question:[FAQ](#fag)
+- :question:[FAQ](#faq)
 	* [DAG Technology](#dag-technology)
 	* [Constellation](#constellation)
 
@@ -53,13 +52,13 @@
 - [Official website](https://constellationlabs.io/) - Information about our roadmap, our team, the newsletter and more.
 - [Business whitepaper]() - (tbd)
 
-Note that there is a list of **FAQ** articles at the end of this list.
+Note that there is a list of [FAQ](#faq) articles at the end of this list.
 
 ## Community
 
 [comment]: <Listed roughly in order of relevance.>
 
-Our static knowledge, news and discussion outlet is the **Orion** discourse forum. Join our **Discord** server for a chat.
+Our static knowledge, news and discussion outlet is the [Orion](https://orion.constellationlabs.io/) discourse forum. Join our [Discord](https://discordapp.com/) server for a chat. Please also have a look at the [Guidelines](#guidelines) for contributions and troubleshooting, bug reports, support, etc.
 
 - [Orion](https://orion.constellationlabs.io/)
 - [Discord](https://discordapp.com/) - (tbd) add static link
@@ -126,7 +125,7 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 - (tbd) - dd/mm/yyyy
 - (tbd) - dd/mm/yyyy
 
-### Dapps
+### dApps
 
 #### List of dApps
 
@@ -210,24 +209,7 @@ See also [explorers](#explorers)
 
 (tbd)
 
-## Currency
-
-### Explorers
-
-- [DAG contract | Etherscan](https://etherscan.io/address/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
-- [DAG token | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667#token)
-- [DAG tracker | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
-
-### Exchanges
-
-- [Kucoin](https://www.kucoin.com/#/trade.pro/DAG-BTC)
-- Hotbit, IDEX, DEx.top, Bilaxy - (tbd)
-
-See also the *Markets* tab on [oinmarketcap.com](https://coinmarketcap.com/currencies/constellation/).
-
-#### Tutorials 
-
-(tbd)
+## DAG Token
 
 ### Wallets
 
@@ -242,6 +224,23 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 - [How to ... add DAG to MyEtherWallet | Orion](https://community.constellationlabs.io/t/adding-dag-to-myetherwallet-mew/1892)
 - (tbd)
+
+### Explorers
+
+- [DAG contract | Etherscan](https://etherscan.io/address/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
+- [DAG token | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667#token)
+- [DAG tracker | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
+
+### Exchanges
+
+- [Kucoin](https://www.kucoin.com/#/trade.pro/DAG-BTC)
+- Hotbit, IDEX, DEx.top, Bilaxy - (tbd)
+
+See also the *Markets* tab on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/).
+
+#### Tutorials 
+
+(tbd)
 
 ## Media
 
