@@ -1,15 +1,10 @@
-[comment]: <Focus on github-types, i.e. developers.>
-[comment]: <Provide links, not explanations.>
+[comment]: <Focus on github-types, i.e. developers!>
+[comment]: <Provide links, not explanations!>
 
-<p align="center">
-	<img src="https://i.imgur.com/FjE9pdz.png">
-</p>
+<p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
+<p align="center">The curated resource list.</p>
 
 [comment]: <No title header atm., as the logo functions as a title.>
-
-<p align="center">
-	The curated resource list.
-</p>
 
 ## Contents
 
@@ -32,7 +27,7 @@
 - :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
  	* [Merchandise](#merchandise)
-- :moneybag:[DAG Token](#dag-token)
+- :moneybag:[The DAG Token](#the-dag-token)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
 - :loudspeaker:[Media](#merchandise)
@@ -71,8 +66,6 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 
 [comment]: <The following is why we ended up on GitHub in the first place!>
 
-(tbd)
-
 ### Code Base
 
 [comment]: <Listed in order of current relevance and what's being worked on.>
@@ -92,11 +85,11 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 ### Documentation
 
 - [Orion developer docs](https://constellation-labs.readme.io/docs)
-- [Protocol repository wiki](https://github.com/Constellation-Labs/constellation/wiki)
-- API - (tbd)
-- 
+- [Core protocol repository wiki](https://github.com/Constellation-Labs/constellation/wiki)
 
-#### Installation
+#### APIs
+
+#### Build Instructions
 
 (tbd)
 
@@ -209,7 +202,7 @@ See also [explorers](#explorers)
 
 (tbd)
 
-## DAG Token
+## The DAG Token
 
 ### Wallets
 
@@ -333,7 +326,7 @@ Comparisons and reviews.
 ---
 
 <p align="center">
-	:two_hearts: We wholeheartedly welcome projects, designs, corrections and so forth. If you have an aha!-moment, consider creating a short write-up or tutorial to be credited here. See also the Guidelines section.
+	:two_hearts: We wholeheartedly welcome projects, designs, corrections and so forth. If you have an aha!-moment, consider creating a short write-up or tutorial to be credited here. See also the [Guidelines](#guidelines) section.
 </p>
 <p align="center">
 	The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a> open source developer community.
