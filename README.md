@@ -92,15 +92,9 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 
 ### Documentation
 
-#### Protocol
-
-(tbd)
-
-### API
-
-(tbd)
-
-### Tutorials
+- [Orion developer docs](https://constellation-labs.readme.io/docs)
+- [Protocol repository Wiki](https://github.com/Constellation-Labs/constellation/wiki)
+- API - (tbd)
 
 #### Installation
 
@@ -111,7 +105,9 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 - [docker](https://www.docker.com/)
 - [vagrant](https://www.vagrantup.com/)
 
-##### Github
+### Tutorials
+
+#### Using GitHub
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Github Emojis](https://gist.github.com/rxaviers/7360908)
 
