@@ -77,7 +77,7 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 
 ### Guidelines
 
-- Troubleshooting, bugs, tickets, support - (tbd)
+- Troubleshooting, bugs, tickets, [support](support@constellationlabs.io) - (tbd)
 - code of conduct - (tbd)
 - naming conventions - (tbd)
 - branch logic - (tbd)
@@ -203,7 +203,7 @@ See also [explorers](#explorers).
 
 ### Wallets
 
-DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets.
+DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets. You'll find support on the #support channel on the [Discord](https://discordapp.com/) server.
 
 - [Metamask](https://metamask.io) - Browser plugin wallet
 - [MyEtherWallet](http://myetherwallet.com/) - Browser wallet
@@ -305,13 +305,13 @@ as well as
 
 (tbd)
 
+##### Contact
+
+[Business inqueries | Email](support@constellationlabs.io) - (tbd)
+
 ##### Partners
 
 (tbd)
-
-##### Support
-
-[Business inquery email](support@constellationlabs.io) - (tbd)
 
 ##### Competitors
 
@@ -324,7 +324,7 @@ Comparisons and reviews.
 #### About The Orion Community Portal
 
 - Staking - (tbd)
-- link to howto - (tbd)
+- HowTo's - (tbd)
 
 ---
 
