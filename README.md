@@ -11,7 +11,7 @@
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-- :stars:[About](#about)
+- :stars:[About](#about-constellation)
 - :two_hearts:[Community](#community)
 - :computer:[Development](#development)
 	* [Code base](#code-base)
@@ -42,12 +42,14 @@
 
 ---
 
-## About
+## About Constellation
 
 [comment]: <Provide information, not advertisement! Keep it short.>
 
 - [Official website](https://constellationlabs.io/) - Information about our roadmap, our team, the newsletter and more.
 - [Business whitepaper]() - (tbd)
+
+Note that there is a list of **FAQ** articles at the end of this list.
 
 ## Community
 
@@ -277,6 +279,7 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 ### Constellation
 
 #### Protocol
+- [Scaling through the HyloChain Consensus Architecture ] spec-rationality article](http://spec-rationality.com/constellation/)
 - not so technical explanation 1 - (tbd)
 - not so technical explanation 2 - (tbd)
 - fees, tps etc. - (tbd)
