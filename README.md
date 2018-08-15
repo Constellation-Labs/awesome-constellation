@@ -1,19 +1,23 @@
 [comment]: <Focus on github-types, i.e. developers.>
 [comment]: <Provide links, not explanations.>
 
-<p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
+<p align="center">
+	<img src="https://i.imgur.com/FjE9pdz.png">
+</p>
 
 [comment]: <No title header atm., as the logo functions as a title.>
 
-<p align="center">The curated resource list.</p>
+<p align="center">
+	The curated resource list.
+</p>
 
 ## Contents
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-:stars:[About Constellation](#about-constellation)
-:two_hearts:[Community](#community)
-:computer:[Development](#development)
+- :stars:[About Constellation](#about-constellation)
+- :two_hearts:[Community](#community)
+- :computer:[Development](#development)
 	* [Code Base](#code-base)
 	* [Guidelines](#guidelines)
 	* [Documentation](#documentation)
@@ -23,20 +27,20 @@
 	* [Ledger Bootstrap Files](#ledger-bootstrap-files)
 	* [Network monitoring](#network-monitoring)
 	* [Languages](#languages)
-:microscope:[Research](#research)
+- :microscope:[Research](#research)
 	* [Resources](#resources)
-	* [Constellation Technical Papers](#constellation-technical-papers)
-:art:[Design](#design)
+	* [Constellation Technical Papers](#constellation-technical-papers)- 
+- :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
-:moneybag:[Currency](#currency)
+ 	* [Merchandise](#merchandise)
+- :moneybag:[Currency](#currency)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
- 	* [Merchandise](#merchandise)
-:loudspeaker:[Media](#merchandise)
+- :loudspeaker:[Media](#merchandise)
 	* [Article Outlets](#article-outlets)
 	* [News Outlets](#news-outlets)
 	* [General](#news-outlets)
-:question:[FAQ](#fag)
+- :question:[FAQ](#fag)
 	* [DAG Technology](#dag-technology)
 	* [Constellation](#constellation)
 
@@ -336,4 +340,3 @@ Comparisons and reviews.
 <p align="center">
 	The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a> open source developer community.
 </p>
-
