@@ -1,8 +1,9 @@
-[comment]: <Focus on github-types, i.e. developers!>
-[comment]: <Provide links, not explanations!>
+
+[comment]: <The target audience for this list is mainly be github visiting types, i.e. developers.> 
+[comment]: <Provide links with information, not explanations and not advertisment.>
 
 <p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
-<p align="center">The curated resource list.</p>
+<p align="center">The curated resource list</p>
 
 [comment]: <No title header atm., as the logo functions as a title.>
 
@@ -42,7 +43,7 @@
 
 ## About Constellation
 
-[comment]: <Provide information, not advertisement! Keep it short.>
+[comment]: <Provide information, not advertisement! Keep it concise.>
 
 - [Official website](https://constellationlabs.io/) - Information about our roadmap, our team, the newsletter and more.
 - [Business whitepaper]() - (tbd)
@@ -140,7 +141,7 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 
 ### Network Monitoring
 
-See also [explorers](#explorers)
+See also [explorers](#explorers).
 
 ### Languages
 
@@ -176,10 +177,6 @@ See also [explorers](#explorers)
 
 (tbd)
 
-#### Videos
-
-(tbd)
-
 ### Constellation Technical Papers
 
 #### Articles
@@ -206,7 +203,7 @@ See also [explorers](#explorers)
 
 ### Wallets
 
-DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets. 
+DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets.
 
 - [Metamask](https://metamask.io) - Browser plugin wallet
 - [MyEtherWallet](http://myetherwallet.com/) - Browser wallet
@@ -259,9 +256,12 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 #### Videos
 
+[comment]: <This is not supposed to be a dump of any related video - be selective and keep it concise.>
+
 ##### Interviews
 
-- [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - Brendan (CEO), Wyatt (CTO) and Ryle (VP of Engineering)
+- [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - Brendan (CEO), Wyatt (CTO) and Ryle (VP of Eng)
+- [Technical outlook | Crypto Zombie](https://youtu.be/TjZUvE5wpaI)
 
 (tbd, there are a lot of noteworthy links to paste here!)
 
@@ -328,6 +328,7 @@ Comparisons and reviews.
 <p align="center">
 	:two_hearts: We wholeheartedly welcome projects, designs, corrections and so forth. If you have an aha!-moment, consider creating a short write-up or tutorial to be credited here. See also the [Guidelines](#guidelines) section.
 </p>
+
 <p align="center">
 	The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a> open source developer community.
 </p>
