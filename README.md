@@ -3,7 +3,7 @@
 [comment]: <Provide links with information, not explanations and not advertisment.>
 
 <p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
-<p align="center">The curated resource list</p>
+<p align="center">:scroll:The curated resource list</p>
 
 [comment]: <No title header atm., as the logo functions as a title.>
 
@@ -223,7 +223,8 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 ### Exchanges
 
-- [Kucoin](https://www.kucoin.com/#/trade.pro/DAG-BTC)
+- [Kucoin | DAG-BTC](https://www.kucoin.com/#/trade.pro/DAG-BTC)
+- [Kucoin | DAG-ETH](https://www.kucoin.com/#/trade.pro/DAG-ETH)
 - Hotbit, IDEX, DEx.top, Bilaxy - (tbd)
 
 See also the *Markets* tab on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/).
