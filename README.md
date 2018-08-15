@@ -5,14 +5,14 @@
 
 [comment]: <No title header atm., as the logo functions as a title.>
 
-<p align="center">A curated resource list.</p>
+<p align="center">The curated resource list.</p>
 
 ## Contents
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-- [About](#about) :stars:
-- [Community](#community) :two_hearts: 
+- :stars: [About](#about)
+- :two_hearts: [Community](#community)
 - [Development](#development) :computer: 
 	* [Code base](#code-base)
 	* [Guidelines](#guidelines)
@@ -23,20 +23,20 @@
 	* [Ledger Bootstrap Files](#ledger-bootstrap-files)
 	* [Network monitoring](#network-monitoring)
 	* [Languages](#languages)
-- [Research](#research) :microscope:
+- :microscope: [Research](#research)
 	* [Resources](#resources)
 	* [Constellation technical papers](#constellation-technical-papers)
-- [Design](#design) :art:
+- :art: [Design](#design)
 	* [Visual Identity](#visual-identity)
-- [Currency](#currency) :moneybag:
+- :moneybag: [Currency](#currency)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
-- [Merchandise](#merchandise) :tophat:
-- [Media](#merchandise) :loudspeaker:
+ 	* [Merchandise](#merchandise)
+- :loudspeaker: [Media](#merchandise)
 	* [Article outlets](#article-outlets)
 	* [News outlets](#news-outlets)
 	* [General](#news-outlets)
-- [FAQ](#fag) :question:
+- :question: [FAQ](#fag)
 	* [DAG technology](#dag-technology)
 	* [Constellation](#constellation)
 
@@ -185,11 +185,13 @@ See also [explorers](#explorers)
 
 ### Constellation technical papers
 
+#### Articles
+
+- [Blockchain cohomology - Meldman-Floch | arXiv](https://arxiv.org/abs/1805.07047v1) - On protocols in an algebraic topology framework
+
 #### Technical whitepaper
 
-(tbd)
-
-- [Technical whitepaper v0.1 | GitHub](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
+- [Technical whitepaper v0.1 | GitHub repo](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
 
 ## Design
 
@@ -209,7 +211,10 @@ See also [explorers](#explorers)
 
 ### Exchanges
 
-(tbd)
+- [Kucoin](https://www.kucoin.com/#/trade.pro/DAG-BTC)
+- Hotbit, IDEX, DEx.top, Bilaxy (tbd)
+
+See also the *Markets* tab on [CoinMarketCap](https://coinmarketcap.com/currencies/constellation/).
 
 #### Tutorials 
 
@@ -228,10 +233,6 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 - [How to ... add DAG to MyEtherWallet | Orion](https://community.constellationlabs.io/t/adding-dag-to-myetherwallet-mew/1892)
 - (tbd)
-
-## Merchandise
-
-(tbd)
 
 ## Media
 
@@ -262,6 +263,10 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 - [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - Brendan (CEO), Wyatt (CTO) and Ryle (VP of Engineering)
 
 (tbd, there are a lot of noteworthy links to paste here!)
+
+### Merchandise
+
+(tbd)
 
 ## FAQ
 
@@ -303,9 +308,9 @@ Comparisons and reviews.
 ---
 
 <p align="center">
-	We wholeheartedly welcome corrections, projects, designs, and so on. If you have an aha-moment, consider creating a short writeup or creating a tutorial to be credited here. See also the Process and Guidelines section.
+	:two_hearts: We wholeheartedly welcome corrections, projects, designs, and so on. If you have an aha-moment, consider creating a short writeup or creating a tutorial to be credited here. See also the Process and Guidelines section.
 </p>
 <p align="center">
-	The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a> open source community.
+	The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a> open source developer community.
 </p>
 
