@@ -11,10 +11,10 @@
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-- :stars:[About](#about-constellation)
+- :stars:[About Constellation](#about-constellation)
 - :two_hearts:[Community](#community)
 - :computer:[Development](#development)
-	* [Code base](#code-base)
+	* [Code Base](#code-base)
 	* [Guidelines](#guidelines)
 	* [Documentation](#documentation)
 	* [API](#api)
@@ -25,7 +25,7 @@
 	* [Languages](#languages)
 - :microscope:[Research](#research)
 	* [Resources](#resources)
-	* [Constellation technical papers](#constellation-technical-papers)
+	* [Constellation Technical Papers](#constellation-technical-papers)
 - :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
 - :moneybag:[Currency](#currency)
@@ -33,11 +33,11 @@
 	* [Exchanges](#exchanges)
  	* [Merchandise](#merchandise)
 - :loudspeaker:[Media](#merchandise)
-	* [Article outlets](#article-outlets)
-	* [News outlets](#news-outlets)
+	* [Article Outlets](#article-outlets)
+	* [News Outlets](#news-outlets)
 	* [General](#news-outlets)
 - :question:[FAQ](#fag)
-	* [DAG technology](#dag-technology)
+	* [DAG Technology](#dag-technology)
 	* [Constellation](#constellation)
 
 ---
@@ -70,7 +70,7 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 
 (tbd)
 
-### Code base
+### Code Base
 
 [comment]: <Listed in order of current relevance and what's being worked on.>
 
@@ -101,7 +101,7 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 
 (tbd)
 
-##### Possible requirements
+##### Possible Requirements
 
 - [docker](https://www.docker.com/)
 - [vagrant](https://www.vagrantup.com/)
@@ -127,11 +127,11 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 
 #### List of dApps
 
-##### On testnet
+##### On Testnet
 
 (tbd)
 
-##### On mainnet
+##### On Mainnet
 
 (tbd)
 
@@ -143,7 +143,7 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 
 (tbd)
 
-### Network monitoring
+### Network Monitoring
 
 See also [explorers](#explorers)
 
@@ -153,7 +153,7 @@ See also [explorers](#explorers)
 
 - [Scala | Wikipedia](https://en.wikipedia.org/wiki/Scala_(programming_language))
 - [Scala | Official website](https://www.scala-lang.org/)
-- [Akka | Docs](https://akka.io/docs/) - Actor model
+- [Akka | Docs](https://akka.io/docs/) - Actor model supporting concurrent computing
 
 #### Kotlin 
 
@@ -177,7 +177,7 @@ See also [explorers](#explorers)
 
 - [Distributed Computing Through Combinatorial Topology - Maurice Herlihy et al.](https://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782)
 
-##### Academic papers
+##### Academic Papers
 
 (tbd)
 
@@ -185,13 +185,13 @@ See also [explorers](#explorers)
 
 (tbd)
 
-### Constellation technical papers
+### Constellation Technical Papers
 
 #### Articles
 
 - [Blockchain cohomology - Meldman-Floch | arXiv](https://arxiv.org/abs/1805.07047v1) - On protocols in an algebraic topology framework
 
-#### Technical whitepaper
+#### Technical Whitepaper
 
 - [Technical whitepaper v0.1 | GitHub repo](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
 
@@ -214,7 +214,7 @@ See also [explorers](#explorers)
 ### Exchanges
 
 - [Kucoin](https://www.kucoin.com/#/trade.pro/DAG-BTC)
-- Hotbit, IDEX, DEx.top, Bilaxy (tbd)
+- Hotbit, IDEX, DEx.top, Bilaxy - (tbd)
 
 See also the *Markets* tab on [CoinMarketCap](https://coinmarketcap.com/currencies/constellation/).
 
@@ -240,12 +240,12 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 Outlet that keep you updated on development, strategy, meetups, competitions, etc.
 
-### Article outlets
+### Article Outlets
 
 - [YouTube](https://www.youtube.com/channel/UChMBV4al3p_iO4bnfzcIzVQ)
 - [Medium](https://medium.com/constellationlabs)
 
-### News outlets
+### News Outlets
 
 - [Twitter](https://twitter.com/conste11ation)
 - [Facebook](https://www.facebook.com/Conste11ation)
@@ -272,9 +272,10 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 ## FAQ
 
-#### DAG technology
+#### DAG Technology
 
-- (tbd) layman links
+- layman links - (tbd)
+- challanges, approaches - (tbd)
 
 ### Constellation
 
@@ -293,20 +294,20 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 (tbd)
 
+##### Partners
+
+(tbd)
+
 ##### Competitors
 
 Comparisons and reviews.
 
 (tbd)
 
-##### Partners
-
-(tbd)
-
 #### Orion community portal
 
-- Staking (tbd)
-- link to howto (tbd)
+- Staking - (tbd)
+- link to howto - (tbd)
 
 ---
 
