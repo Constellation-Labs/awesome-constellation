@@ -1,24 +1,22 @@
-<p align="center">
-  <img
-    src="https://i.imgur.com/FjE9pdz.png"
-	>
+<p align="center"> 
+	<img src="https://i.imgur.com/FjE9pdz.png">
 </p>
 
 <p align="center">
-  A curated resource list.
+	A curated resource list.
 </p>
 
-<!–-- Focus on providing the relevant entry information into the community. -–->
+[comment]: <Focus on github-type, i.e. developers.>
 
 ## Contents
 
-<!–-- First and second level content overview (i.e. ## and ### markup headers) -–->
+[comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
 - [About](#about)
-- [Community](#community)
-- [Development](#development)
+- :two_hearts: [Community](#community)
+- :computer: [Development](#development)
 	* [Code base](#code-base)
-	* [Guidelines and Process](#guidelines-and-Process)
+	* [Guidelines](#guidelines)
 	* [Documentation](#documentation)
 	* [API](#api)
 	* [Tutorials](#tutorials)
@@ -43,49 +41,48 @@
 	* [DAG technology](#dag-technology)
 	* [Constellation](#constellation)
 
-
 ---
 
 ## About
 
-<!–-- Provide information, not advertisement! Keep it short. -–->
+[comment]: <Provide information, not advertisement! Keep it short.>
 
 - [Official website](https://constellationlabs.io/) - Information about our roadmap, our team, the newsletter and more.
 - [Business whitepaper]() - (tbd)
 
 ## Community
 
-<!–-- Listed roughly in order of relevance. -–->
+[comment]: <Listed roughly in order of relevance.>
 
 Our static knowledge, news and discussion outlet is the Orion discourse forum. Join our discours for a chat.
 
 - [Orion](https://orion.constellationlabs.io/)
-- [discord](https://discordapp.com/) - (tbd) add static link
-- [reddit](https://www.reddit.com/r/constellation)
-- [telegram - community](https://t.me/constellationcommunity)
-- [telegram - traders](https://t.me/constellationtrader)
-- [telegram - airdrop info](https://t.me/constellationcommunityairdrop)
+- [Discord](https://discordapp.com/) - (tbd) add static link
+- [Reddit](https://www.reddit.com/r/constellation)
+- [Telegram - community](https://t.me/constellationcommunity)
+- [Ttelegram - traders](https://t.me/constellationtrader)
+- [Telegram - airdrop info](https://t.me/constellationcommunityairdrop)
 
 ## Development
 
-<!–-- The following is why we ended up on GitHub in the first place! -–->
+[comment]: <The following is why we ended up on GitHub in the first place!>
 
 (tbd)
 
 ### Code base
 
-<!–-- Listed in order of current relevance and what's being worked on. -–->
+[comment]: <Listed in order of current relevance and what's being worked on.>
 
 - [Github root](https://github.com/Constellation-Labs) - Official public Consrellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/)
 - [foo-project](https://github.com/tensorflow/tensorflow) - created by @userBar69
 
-### Guidelines and Process
+### Guidelines
 
-(tbd) code of conduct
-(tbd) naming conventions
-(tbd) branch logic
-(tbd) permissions logic
+- code of conduct - (tbd)
+- naming conventions - (tbd)
+- branch logic - (tbd)
+- permissions logic - (tbd)
 
 ### Documentation
 
@@ -96,7 +93,6 @@ Our static knowledge, news and discussion outlet is the Orion discourse forum. J
 ### API
 
 (tbd)
-
 
 ### Tutorials
 
@@ -123,19 +119,18 @@ Our static knowledge, news and discussion outlet is the Orion discourse forum. J
 
 #### Mainnet
 
-(tbd) - dd/mm/yyyy
+- (tbd) - dd/mm/yyyy
+- (tbd) - dd/mm/yyyy
 
 ### Dapps
 
 #### List of dApps
 
-(tbd)
-
-##### Testnet
+##### On testnet
 
 (tbd)
 
-##### Mainnet
+##### On mainnet
 
 (tbd)
 
@@ -160,6 +155,8 @@ See also [explorers](#explorers)
 - [Akka | Docs](https://akka.io/docs/) - Actor model
 
 #### Kotlin 
+
+(tbd)
 
 #### Javascript
 
@@ -199,7 +196,9 @@ See also [explorers](#explorers)
 
 ### Visual Identity
 
-(tbd)
+(create repo, tbd)
+
+- [About the logo | Orion](https://community.constellationlabs.io/t/a-video-analyzing-and-quickly-scripting-the-constellation-logo-using-python/1942)
 
 ## Currency
 
@@ -219,14 +218,17 @@ See also [explorers](#explorers)
 
 ### Wallets
 
-DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets.
+DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets. 
 
 - [Metamask](https://metamask.io) - Browser plugin wallet
 - [MyEtherWallet](http://myetherwallet.com/) - Browser wallet
 
 #### Tutorials 
 
-(tbd)
+The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
+
+- [How to ... add DAG to MyEtherWallet | Orion](https://community.constellationlabs.io/t/adding-dag-to-myetherwallet-mew/1892)
+- (tbd)
 
 ## Merchandise
 
@@ -252,7 +254,7 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 ### Coverage
 
-<!–-- Keep this short! -–->
+[comment]: <Keep this concise!>
 
 #### Videos
 
@@ -260,7 +262,7 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 - [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - Brendan (CEO), Wyatt (CTO) and Ryle (VP of Engineering)
 
-(tbd) ! there are a lot of noteworthy links to paste here!
+(tbd, there are a lot of noteworthy links to paste here!)
 
 ## FAQ
 
@@ -271,15 +273,14 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 ### Constellation
 
 #### Protocol
-- (tbd) not so technical explanation 1
-- (tbd) not so technical explanation 2
-- (tbd) fees etc.
-- (tbd) tps etc.
-- Proof of meme, consensus
+- not so technical explanation 1 - (tbd)
+- not so technical explanation 2 - (tbd)
+- fees, tps etc. - (tbd)
+- proof of meme, consensus, etc. - (tbd)
 
 #### Business
 
-<!–-- Keep this short! -–->
+[comment]: <Keep this concise!>
 
 ##### Strategy
 
@@ -298,16 +299,14 @@ Comparisons and reviews.
 #### Orion community portal
 
 - Staking (tbd)
-
-(tbd)
-
-#### Contributing
-
-We wholeheartedly welcome corrections, projects, designs, etc.. See also [Process and Guidelines](#process-and-guidelines).
+- link to howto (tbd)
 
 ---
 
 <p align="center">
-	<a>We wholeheartedly welcome corrections, projects, designs, etc.. See also the Process and Guidelines section.</a>
-	<a>The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a>[CoZ] open source community.</a>
+	We wholeheartedly welcome corrections, projects, designs, and so on. If you have an aha-moment, consider creating a short writeup or creating a tutorial to be credited here. See also the Process and Guidelines section.
 </p>
+<p align="center">
+	The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a> open source community.
+</p>
+
