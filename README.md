@@ -1,20 +1,19 @@
-<p align="center"> 
-	<img src="https://i.imgur.com/FjE9pdz.png">
-</p>
+[comment]: <Focus on github-types, i.e. developers.>
+[comment]: <Provide links, not explanations.>
 
-<p align="center">
-	A curated resource list.
-</p>
+<p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
 
-[comment]: <Focus on github-type, i.e. developers.>
+[comment]: <No title header atm., as the logo functions as a title.>
+
+<p align="center">A curated resource list.</p>
 
 ## Contents
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-- [About](#about)
-- :two_hearts: [Community](#community)
-- :computer: [Development](#development)
+- [About](#about) :stars:
+- [Community](#community) :two_hearts: 
+- [Development](#development) :computer: 
 	* [Code base](#code-base)
 	* [Guidelines](#guidelines)
 	* [Documentation](#documentation)
@@ -24,20 +23,20 @@
 	* [Ledger Bootstrap Files](#ledger-bootstrap-files)
 	* [Network monitoring](#network-monitoring)
 	* [Languages](#languages)
-- [Research](#research)
+- [Research](#research) :microscope:
 	* [Resources](#resources)
 	* [Constellation technical papers](#constellation-technical-papers)
-- [Design](#design)
+- [Design](#design) :art:
 	* [Visual Identity](#visual-identity)
-- [Currency](#currency)
+- [Currency](#currency) :moneybag:
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
-- [Merchandise](#merchandise)
-- [Media](#merchandise)
+- [Merchandise](#merchandise) :tophat:
+- [Media](#merchandise) :loudspeaker:
 	* [Article outlets](#article-outlets)
 	* [News outlets](#news-outlets)
 	* [General](#news-outlets)
-- [FAQ](#FAQ)
+- [FAQ](#fag) :question:
 	* [DAG technology](#dag-technology)
 	* [Constellation](#constellation)
 
