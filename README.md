@@ -59,9 +59,9 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 - [Orion](https://orion.constellationlabs.io/)
 - [Discord](https://discordapp.com/) - (tbd) add static link
 - [Reddit](https://www.reddit.com/r/constellation)
-- [Telegram - community](https://t.me/constellationcommunity)
-- [Ttelegram - traders](https://t.me/constellationtrader)
-- [Telegram - airdrop info](https://t.me/constellationcommunityairdrop)
+- [Telegram | Community](https://t.me/constellationcommunity)
+- [Telegram | Traders](https://t.me/constellationtrader)
+- [Telegram | Airdrop](https://t.me/constellationcommunityairdrop)
 
 ## Development
 
@@ -102,9 +102,9 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 ### Tutorials
 
 #### Third Party
-- [Github Emojis](https://circleci.com/) - for our [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
+- [Circleci](https://circleci.com/) - for our [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - formatting for files like this
-- [Github Emojis](https://gist.github.com/rxaviers/7360908) 
+- [Github emojis](https://gist.github.com/rxaviers/7360908) 
 
 ### Ledger Bootstrap Files
 
