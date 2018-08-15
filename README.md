@@ -28,7 +28,7 @@
 	* [Constellation technical papers](#constellation-technical-papers)
 - :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
-- :moneybag: [Currency](#currency)
+- :moneybag:[Currency](#currency)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
  	* [Merchandise](#merchandise)
@@ -53,7 +53,7 @@
 
 [comment]: <Listed roughly in order of relevance.>
 
-Our static knowledge, news and discussion outlet is the Orion discourse forum. Join our discours for a chat.
+Our static knowledge, news and discussion outlet is the **Orion** discourse forum. Join our **Discord** server for a chat.
 
 - [Orion](https://orion.constellationlabs.io/)
 - [Discord](https://discordapp.com/) - (tbd) add static link
@@ -308,7 +308,7 @@ Comparisons and reviews.
 ---
 
 <p align="center">
-	:two_hearts: We wholeheartedly welcome corrections, projects, designs, and so on. If you have an aha-moment, consider creating a short writeup or creating a tutorial to be credited here. See also the Process and Guidelines section.
+	:two_hearts: We wholeheartedly welcome projects, designs, corrections and so forth. If you have an aha!-moment, consider creating a short write-up or tutorial to be credited here. See also the Guidelines section.
 </p>
 <p align="center">
 	The layout of this file was drawn from the <a href="http://cityofzion.io/">CoZ</a> open source developer community.
