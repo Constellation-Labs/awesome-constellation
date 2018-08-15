@@ -4,25 +4,21 @@
 	>
 </p>
 
-<!–- <h1 align="center">Constellation</h1> -–>
-
-<!–- A title is already part of the current banner, thus commented out here. -–>
-
 <p align="center">
   A curated resource list.
 </p>
 
-<!–- Focus on providing the relevant entry information into the community. -–>
+<!–-- Focus on providing the relevant entry information into the community. -–->
 
 ## Contents
 
-<!–- First and second level content overview (i.e. ## and ### markup headers) -–>
+<!–-- First and second level content overview (i.e. ## and ### markup headers) -–->
 
-- [About the project](#about-the-project)
-- [Community](#Community)
-- [Developer](#Developer)
+- [About](#about)
+- [Community](#community)
+- [Development](#development)
 	* [Code base](#code-base)
-	* [Process and Guidelines](#process-and-guidelines)
+	* [Guidelines and Process](#guidelines-and-Process)
 	* [Documentation](#documentation)
 	* [API](#api)
 	* [Tutorials](#tutorials)
@@ -32,12 +28,12 @@
 	* [Languages](#languages)
 - [Research](#research)
 	* [Resources](#resources)
-	* [Constellation technical papers](#Constellation-technical-papers)
+	* [Constellation technical papers](#constellation-technical-papers)
 - [Design](#design)
 	* [Visual Identity](#visual-identity)
 - [Currency](#currency)
 	* [Explorers](#explorers)
-	* [Exchanges](#Exchanges)
+	* [Exchanges](#exchanges)
 - [Merchandise](#merchandise)
 - [Media](#merchandise)
 	* [Article outlets](#article-outlets)
@@ -52,34 +48,33 @@
 
 ## About
 
-<!–- Provide information, not advertisement! Keep it short. -–>
+<!–-- Provide information, not advertisement! Keep it short. -–->
 
-### Vision and mission
 - [Official website](https://constellationlabs.io/) - Information about our roadmap, our team, the newsletter and more.
-- [Business whitepaper]() - tbd.
+- [Business whitepaper]() - (tbd)
 
 ## Community
 
-<!–- Listed roughly in order of relevance. -–>
+<!–-- Listed roughly in order of relevance. -–->
 
 Our static knowledge, news and discussion outlet is the Orion discourse forum. Join our discours for a chat.
 
 - [Orion](https://orion.constellationlabs.io/)
-- [discord](https://discordapp.com/) - tbd. add static link
+- [discord](https://discordapp.com/) - (tbd) add static link
 - [reddit](https://www.reddit.com/r/constellation)
 - [telegram - community](https://t.me/constellationcommunity)
 - [telegram - traders](https://t.me/constellationtrader)
 - [telegram - airdrop info](https://t.me/constellationcommunityairdrop)
 
-## Developer
+## Development
 
-<!–- The following is why we ended up on GitHub in the first place! -–>
+<!–-- The following is why we ended up on GitHub in the first place! -–->
 
-tbd.
+(tbd)
 
 ### Code base
 
-<!–- Listed in order of current relevance and what's being worked on. -–>
+<!–-- Listed in order of current relevance and what's being worked on. -–->
 
 - [Github root](https://github.com/Constellation-Labs) - Official public Consrellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/)
@@ -87,27 +82,27 @@ tbd.
 
 ### Guidelines and Process
 
-tbd. code of conduct
-tbd. naming conventions
-tbd. branch logic
-tbd. permissions logic
+(tbd) code of conduct
+(tbd) naming conventions
+(tbd) branch logic
+(tbd) permissions logic
 
 ### Documentation
 
 #### Protocol
 
-tbd.
+(tbd)
 
 ### API
 
-tbd.
+(tbd)
 
 
 ### Tutorials
 
 #### Installation
 
-tbd.
+(tbd)
 
 ##### Possible requirements
 
@@ -122,35 +117,35 @@ tbd.
 
 #### Testnet
 
-- tbd. - dd/mm/yyyy
-- tbd. - dd/mm/yyyy
-- tbd. - dd/mm/yyyy
+- (tbd) - dd/mm/yyyy
+- (tbd) - dd/mm/yyyy
+- (tbd) - dd/mm/yyyy
 
 #### Mainnet
 
-tbd. - dd/mm/yyyy
+(tbd) - dd/mm/yyyy
 
 ### Dapps
 
 #### List of dApps
 
-tbd.
+(tbd)
 
 ##### Testnet
 
-tbd.
+(tbd)
 
 ##### Mainnet
 
-tbd.
+(tbd)
 
 #### Code Examples
 
-tbd.
+(tbd)
 
 ### SDK
 
-tbd.
+(tbd)
 
 ### Network monitoring
 
@@ -168,11 +163,11 @@ See also [explorers](#explorers)
 
 #### Javascript
 
-tbd.
+(tbd)
 
 #### TeX
 
-tbd.
+(tbd)
 
 ## Research
 
@@ -184,19 +179,19 @@ tbd.
 
 - [Distributed Computing Through Combinatorial Topology - Maurice Herlihy et al.](https://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782)
 
-##### Papers
+##### Academic papers
 
-tbd.
+(tbd)
 
 #### Videos
 
-tbd.
+(tbd)
 
 ### Constellation technical papers
 
 #### Technical whitepaper
 
-tbd.
+(tbd)
 
 - [Technical whitepaper v0.1 | GitHub](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
 
@@ -204,7 +199,7 @@ tbd.
 
 ### Visual Identity
 
-tbd.
+(tbd)
 
 ## Currency
 
@@ -216,11 +211,11 @@ tbd.
 
 ### Exchanges
 
-tbd.
+(tbd)
 
 #### Tutorials 
 
-tbd.
+(tbd)
 
 ### Wallets
 
@@ -231,11 +226,11 @@ DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blo
 
 #### Tutorials 
 
-tbd.
+(tbd)
 
 ## Merchandise
 
-tbd.
+(tbd)
 
 ## Media
 
@@ -257,7 +252,7 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 ### Coverage
 
-<!–- Keep this short! -–>
+<!–-- Keep this short! -–->
 
 #### Videos
 
@@ -265,46 +260,46 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 - [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - Brendan (CEO), Wyatt (CTO) and Ryle (VP of Engineering)
 
-tbd. ! there are a lot of noteworthy links to paste here!
+(tbd) ! there are a lot of noteworthy links to paste here!
 
-## FAQs
+## FAQ
 
 #### DAG technology
 
-- tbd. layman links
+- (tbd) layman links
 
 ### Constellation
 
 #### Protocol
-- tbd. not so technical explanation 1
-- tbd. not so technical explanation 2
-- tbd. fees etc.
-- tbd. tps etc.
+- (tbd) not so technical explanation 1
+- (tbd) not so technical explanation 2
+- (tbd) fees etc.
+- (tbd) tps etc.
 - Proof of meme, consensus
 
 #### Business
 
-<!–- Keep this short! -–>
+<!–-- Keep this short! -–->
 
 ##### Strategy
 
-tbd.
+(tbd)
 
 ##### Competitors
 
 Comparisons and reviews.
 
-tbd.
+(tbd)
 
 ##### Partners
 
-tbd.
+(tbd)
 
 #### Orion community portal
 
-- Staking tbd.
+- Staking (tbd)
 
-tbd.
+(tbd)
 
 #### Contributing
 
