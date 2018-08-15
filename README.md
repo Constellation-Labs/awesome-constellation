@@ -244,16 +244,31 @@ Outlet that keep you updated on development, strategy, meetups, competitions, et
 
 ### News Outlets
 
+See also the open community section above, e.g. with [Reddit](https://www.reddit.com/r/constellation).
+
 - [Twitter](https://twitter.com/conste11ation)
 - [Facebook](https://www.facebook.com/Conste11ation)
 - [Instagram](https://www.instagram.com/constellation_labs)
 - [Quora](https://www.quora.com/profile/Constellation-Labs-1)
+- [LinkedIn](https://www.linkedin.com/company/constellation-labs/)
 
-See also the open community section above, e.g. with [Reddit](https://www.reddit.com/r/constellation).
+The team at LinkedIn: 
+[Brion](https://www.linkedin.com/in/brionhickey/),
+[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/),
+[Tyler](https://www.linkedin.com/in/tylerprete/),
+[Preston](https://www.linkedin.com/in/prestonparris/),
+[James](https://www.linkedin.com/in/james-markotic/),
+[Gina](https://www.linkedin.com/in/ginarubino/),
+[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/) 
+as well as 
+[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
+[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
+[scarpulla11](https://www.linkedin.com/in/scarpulla11/),...
 
 ### Coverage
 
-[comment]: <Keep this concise!>
+[comment]: <Keep this relevant and most concise!>
 
 #### Videos
 
@@ -268,12 +283,12 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 ## FAQ
 
-#### DAG Technology
+### About DAG Technology
 
 - layman links - (tbd)
 - challanges, approaches - (tbd)
 
-### Constellation
+### About Constellation
 
 #### Protocol
 - [Scaling through the HyloChain Consensus Architecture | spec-rationality.com article](http://spec-rationality.com/constellation/)
@@ -294,22 +309,9 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 (tbd)
 
-##### Official Constellation Contacts & Employees
+##### Support
 
 [Business inquery email](support@constellationlabs.io) - (tbd)
-
-[Brion](https://www.linkedin.com/in/brionhickey/),
-[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/),
-[Tyler](https://www.linkedin.com/in/tylerprete/),
-[Preston](https://www.linkedin.com/in/prestonparris/),
-[James](https://www.linkedin.com/in/james-markotic/),
-[Gina](https://www.linkedin.com/in/ginarubino/),
-[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
-[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/),
-
-[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
-[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
-[scarpulla11](https://www.linkedin.com/in/scarpulla11/), ...
 
 ##### Competitors
 
@@ -319,7 +321,7 @@ Comparisons and reviews.
 
 (tbd)
 
-#### Orion community portal
+#### About The Orion Community Portal
 
 - Staking - (tbd)
 - link to howto - (tbd)
