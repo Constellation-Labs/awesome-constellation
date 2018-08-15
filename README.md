@@ -79,12 +79,12 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 [comment]: <Listed in order of current relevance and what's being worked on.>
 
 - [Github root](https://github.com/Constellation-Labs) - Official public Consrellation repositories.
-- [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/)
-- [foo-project](https://github.com/tensorflow/tensorflow) - created by @userBar69
+- [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
+- [foo-project](https://github.com/tensorflow/tensorflow) - created by @userBar69.
 
 ### Guidelines
 
-- Troubleshooting, bugs, tickets, support
+- Troubleshooting, bugs, tickets, support - (tbd)
 - code of conduct - (tbd)
 - naming conventions - (tbd)
 - branch logic - (tbd)
@@ -93,8 +93,9 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 ### Documentation
 
 - [Orion developer docs](https://constellation-labs.readme.io/docs)
-- [Protocol repository Wiki](https://github.com/Constellation-Labs/constellation/wiki)
+- [Protocol repository wiki](https://github.com/Constellation-Labs/constellation/wiki)
 - API - (tbd)
+- 
 
 #### Installation
 
@@ -102,14 +103,15 @@ Our static knowledge, news and discussion outlet is the **Orion** discourse foru
 
 ##### Possible Requirements
 
-- [docker](https://www.docker.com/)
-- [vagrant](https://www.vagrantup.com/)
+- [docker](https://www.docker.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
+- [vagrant](https://www.vagrantup.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
 
 ### Tutorials
 
-#### Using GitHub
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Github Emojis](https://gist.github.com/rxaviers/7360908)
+#### Third Party
+- [Github Emojis](https://circleci.com/) - for our [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - formatting for files like this
+- [Github Emojis](https://gist.github.com/rxaviers/7360908) 
 
 ### Ledger Bootstrap Files
 
@@ -204,6 +206,10 @@ See also [explorers](#explorers)
 
 - [About the logo | Orion](https://community.constellationlabs.io/t/a-video-analyzing-and-quickly-scripting-the-constellation-logo-using-python/1942)
 
+### Merchandise
+
+(tbd)
+
 ## Currency
 
 ### Explorers
@@ -217,7 +223,7 @@ See also [explorers](#explorers)
 - [Kucoin](https://www.kucoin.com/#/trade.pro/DAG-BTC)
 - Hotbit, IDEX, DEx.top, Bilaxy - (tbd)
 
-See also the *Markets* tab on [CoinMarketCap](https://coinmarketcap.com/currencies/constellation/).
+See also the *Markets* tab on [oinmarketcap.com](https://coinmarketcap.com/currencies/constellation/).
 
 #### Tutorials 
 
@@ -267,10 +273,6 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 (tbd, there are a lot of noteworthy links to paste here!)
 
-### Merchandise
-
-(tbd)
-
 ## FAQ
 
 #### DAG Technology
@@ -301,19 +303,20 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 
 ##### Official Constellation Contacts & Employees
 
-- [Business inquery](support@constellationlabs.io) - (tbd)
+[Business inquery email](support@constellationlabs.io) - (tbd)
 
 [Brion](https://www.linkedin.com/in/brionhickey/),
 [Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/),
 [Tyler](https://www.linkedin.com/in/tylerprete/),
 [Preston](https://www.linkedin.com/in/prestonparris/),
-[mriggles](https://www.linkedin.com/in/mrdiggles/),
-[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
-[scarpulla11](https://www.linkedin.com/in/scarpulla11/),
 [James](https://www.linkedin.com/in/james-markotic/),
 [Gina](https://www.linkedin.com/in/ginarubino/),
 [Giovanni](https://www.linkedin.com/in/giovannigastelum/),
-[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/)
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/),
+
+[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
+[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
+[scarpulla11](https://www.linkedin.com/in/scarpulla11/), ...
 
 ##### Competitors
 
