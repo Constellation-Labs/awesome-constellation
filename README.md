@@ -24,9 +24,6 @@
 - :microscope:[Research](#research)
 	* [Resources](#resources)
 	* [Constellation Technical Papers](#constellation-technical-papers)
-- :moneybag:[The DAG Token](#the-dag-token)
-	* [Explorers](#explorers)
-	* [Exchanges](#exchanges)
 - :question:[Technical FAQ](#technical-faq)
 	* [Concepts](#concepts)
 	* [DAG Technology Challanges And Approaches](#dag-technology-challanges-and-approaches)
@@ -38,6 +35,9 @@
 - :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
  	* [Merchandise](#merchandise)
+- :moneybag:[The DAG Token](#the-dag-token)
+	* [Explorers](#explorers)
+	* [Exchanges](#exchanges)
 - :loudspeaker:[Media](#merchandise)
 	* [Article Outlets](#article-outlets)
 	* [News Outlets](#news-outlets)
@@ -54,21 +54,21 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 - [Orion](https://orion.constellationlabs.io/)
 - [Discord](https://discordapp.com/) - (tbd) add static link
 - [Reddit](https://www.reddit.com/r/constellation)
-- [Telegram | Community](https://t.me/constellationcommunity)
-- [Telegram | Traders](https://t.me/constellationtrader)
-- [Telegram | Airdrop](https://t.me/constellationcommunityairdrop)
+- [Telegram for Community](https://t.me/constellationcommunity)
+| [Telegram for Traders](https://t.me/constellationtrader),
+| [Telegram for Airdrops](https://t.me/constellationcommunityairdrop)
 
 ---
 
 ## Development
 
-[comment]: <The following is why we ended up on GitHub in the first place!>
+[comment]: <The following is why we ended up on github in the first place!>
 
 ### Code Base
 
 [comment]: <Listed in order of current relevance and what's being worked on.>
 
-- [Github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
+- [github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
 
 ### Guidelines
@@ -100,7 +100,7 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 #### Third Party
 - [Circleci](https://circleci.com/) - for our [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - formatting for files like this
-- [Github emojis](https://gist.github.com/rxaviers/7360908) 
+- [github emojis](https://gist.github.com/rxaviers/7360908) 
 
 ### Ledger Bootstrap Files
 
@@ -183,7 +183,7 @@ See also [explorers](#explorers).
 
 #### Technical Whitepaper
 
-- [Technical whitepaper v0.1 | GitHub repo](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
+- [Technical whitepaper v0.1 | github repo](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
 
 ---
 
@@ -271,9 +271,9 @@ Comparisons and reviews.
 
 ## The DAG Token
 
-### Wallets
+DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets. You'll find support on the #support channel on the [Discord](https://discordapp.com/) server. Lots of information about the token has been posted on the [official blog](https://constellationlabs.io/blog/) on the official homepage.
 
-DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets. You'll find support on the #support channel on the [Discord](https://discordapp.com/) server.
+### Wallets
 
 - [Metamask](https://metamask.io) - Browser plugin wallet
 - [MyEtherWallet](http://myetherwallet.com/) - Browser wallet
@@ -299,6 +299,10 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 See also the *Markets* tab on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/).
 
+### Airdrop
+
+As noted in the [Community](#community) section, be aware that there is a [Telegram for Airdrops](https://t.me/constellationcommunityairdrop). 
+
 ---
 
 ## Media
@@ -312,6 +316,7 @@ See also the *Markets* tab on [coinmarketcap.com](https://coinmarketcap.com/curr
 
 See also the open community section above, e.g. with [Reddit](https://www.reddit.com/r/constellation).
 
+- [Official blog](https://constellationlabs.io/blog/)
 - [Twitter](https://twitter.com/conste11ation)
 - [Facebook](https://www.facebook.com/Conste11ation)
 - [Instagram](https://www.instagram.com/constellation_labs)
