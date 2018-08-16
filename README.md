@@ -11,7 +11,6 @@
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
-- :stars:[About Constellation](#about-constellation)
 - :two_hearts:[Community](#community)
 - :computer:[Development](#development)
 	* [Code Base](#code-base)
@@ -25,30 +24,26 @@
 - :microscope:[Research](#research)
 	* [Resources](#resources)
 	* [Constellation Technical Papers](#constellation-technical-papers)
-- :art:[Design](#design)
-	* [Visual Identity](#visual-identity)
- 	* [Merchandise](#merchandise)
 - :moneybag:[The DAG Token](#the-dag-token)
 	* [Explorers](#explorers)
 	* [Exchanges](#exchanges)
+- :question:[Technical FAQ](#technical-faq)
+	* [Concepts](#concepts)
+	* [DAG Technology Challanges And Approaches](#dag-technology-challanges-and-approaches)
+	* [The Constellation Protocol](#the-constellation-protocol)
+- :stars:[About Constellation](#about-constellation)
+	* [Employees](#employees)
+	* [Business](#business)
+	* [Orion Community Portal](#orion-community-portal)
+- :art:[Design](#design)
+	* [Visual Identity](#visual-identity)
+ 	* [Merchandise](#merchandise)
 - :loudspeaker:[Media](#merchandise)
 	* [Article Outlets](#article-outlets)
 	* [News Outlets](#news-outlets)
 	* [General](#news-outlets)
-- :question:[FAQ](#faq)
-	* [DAG Technology](#dag-technology)
-	* [Constellation](#constellation)
-
+	
 ---
-
-## About Constellation
-
-[comment]: <Provide information, not advertisement! Keep it concise.>
-
-- [Official website](https://constellationlabs.io/) - Information about our roadmap, our team, the newsletter and more.
-- [Business whitepaper]() - (tbd)
-
-Note that there is a list of [FAQ](#faq) articles at the end of this list.
 
 ## Community
 
@@ -62,6 +57,8 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 - [Telegram | Community](https://t.me/constellationcommunity)
 - [Telegram | Traders](https://t.me/constellationtrader)
 - [Telegram | Airdrop](https://t.me/constellationcommunityairdrop)
+
+---
 
 ## Development
 
@@ -162,6 +159,8 @@ See also [explorers](#explorers).
 
 (tbd)
 
+---
+
 ## Research
 
 ### Resources
@@ -186,6 +185,76 @@ See also [explorers](#explorers).
 
 - [Technical whitepaper v0.1 | GitHub repo](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
 
+---
+
+## Technical FAQ
+
+### Concepts
+
+(tbd - list of notions/concepts)
+
+### DAG Technology Challanges And Approaches
+
+- [Scaling through the HyloChain Consensus Architecture | spec-rationality.com article](http://spec-rationality.com/constellation/)
+
+### The Constellation Protocol
+- not so technical explanation 1 - (tbd)
+- not so technical explanation 2 - (tbd)
+- fees, tps etc. - (tbd)
+- proof of meme, consensus, etc. - (tbd)
+
+---
+
+## About Constellation
+
+Check out the [official website](https://constellationlabs.io/) for information about our roadmap, our team, the newsletter and more
+
+### Employees
+
+Brendan (CEO),
+[Brion](https://www.linkedin.com/in/brionhickey/),
+[Gina](https://www.linkedin.com/in/ginarubino/),
+[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
+[James](https://www.linkedin.com/in/james-markotic/),
+[Preston](https://www.linkedin.com/in/prestonparris/) (Dev.),
+[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/) (VP of Eng.),
+[Tyler](https://www.linkedin.com/in/tylerprete/) (Dev.),
+Wyatt (CTO),
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/), 
+as well as 
+[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
+[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
+[scarpulla11](https://www.linkedin.com/in/scarpulla11/),...
+
+### Business
+
+[comment]: <Keep this concise!>
+
+- [Business whitepaper]() - (tbd)
+
+#### Strategy & Partners
+
+(tbd)
+
+##### Contact
+
+[Business inqueries | Email](support@constellationlabs.io) - (tbd)
+
+##### Competitors
+
+Comparisons and reviews.
+
+*Note*: This is not for advertisement but for development information. Possible problems with the Constellation solution should be explained in the same fashion as problems with other protocols.
+
+(tbd)
+
+### Orion Community Portal
+
+- Staking - (tbd)
+- HowTo's - (tbd)
+
+---
+
 ## Design
 
 ### Visual Identity
@@ -197,6 +266,8 @@ See also [explorers](#explorers).
 ### Merchandise
 
 (tbd)
+
+---
 
 ## The DAG Token
 
@@ -228,13 +299,9 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 See also the *Markets* tab on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/).
 
-#### Tutorials 
-
-(tbd)
+---
 
 ## Media
-
-Outlet that keep you updated on development, strategy, meetups, competitions, etc.
 
 ### Article Outlets
 
@@ -251,23 +318,11 @@ See also the open community section above, e.g. with [Reddit](https://www.reddit
 - [Quora](https://www.quora.com/profile/Constellation-Labs-1)
 - [LinkedIn](https://www.linkedin.com/company/constellation-labs/)
 
-The team at LinkedIn: 
-[Brion](https://www.linkedin.com/in/brionhickey/),
-[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/),
-[Tyler](https://www.linkedin.com/in/tylerprete/),
-[Preston](https://www.linkedin.com/in/prestonparris/),
-[James](https://www.linkedin.com/in/james-markotic/),
-[Gina](https://www.linkedin.com/in/ginarubino/),
-[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
-[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/) 
-as well as 
-[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
-[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
-[scarpulla11](https://www.linkedin.com/in/scarpulla11/),...
-
 ### Coverage
 
-[comment]: <Keep this relevant and most concise!>
+This section provides informations to fill you in on development, strategy, meetups, competitions, etc. 
+
+*Note*: This section should be kept to the point and development oeriented.
 
 #### Videos
 
@@ -275,60 +330,15 @@ as well as
 
 ##### Interviews
 
-- [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - Brendan (CEO), Wyatt (CTO) and Ryle (VP of Eng)
-- [Technical outlook | Crypto Zombie](https://youtu.be/TjZUvE5wpaI)
+- [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - with Brendan, Wyatt and Ryle
+- [Technical outlook | youtube/CryptoZombie](https://youtu.be/TjZUvE5wpaI) - with Brendan and Ryle
 
-(tbd, there are a lot of noteworthy links to paste here!)
-
-## FAQ
-
-### About DAG Technology
-
-- layman links - (tbd)
-- challanges, approaches - (tbd)
-
-### About Constellation
-
-#### Protocol
-- [Scaling through the HyloChain Consensus Architecture | spec-rationality.com article](http://spec-rationality.com/constellation/)
-- not so technical explanation 1 - (tbd)
-- not so technical explanation 2 - (tbd)
-- fees, tps etc. - (tbd)
-- proof of meme, consensus, etc. - (tbd)
-
-#### Business
-
-[comment]: <Keep this concise!>
-
-##### Strategy & Partners
-
-(tbd)
-
-##### Contact
-
-[Business inqueries | Email](support@constellationlabs.io) - (tbd)
-
-##### Partners
-
-(tbd)
-
-##### Competitors
-
-Comparisons and reviews.
-
-[comment]: <This is not for advertisement but for development - possible problems with the Constellation solution should be explained in the same fashion as problems with other protocols.>
-
-(tbd)
-
-#### About The Orion Community Portal
-
-- Staking - (tbd)
-- HowTo's - (tbd)
+(tbd, there are many noteworthy links to paste here, but keep it concise too!)
 
 ---
 
 <p align="center">
-	:two_hearts: We wholeheartedly welcome projects, designs, corrections and so forth. If you have an aha!-moment, consider creating a short write-up or tutorial to be credited here. See also the [Guidelines](#guidelines) section.
+	:two_hearts: We wholeheartedly welcome projects, designs, corrections and so forth. If you have an aha!-moment, consider creating a short write-up or tutorial to be credited here. See also the Guidelines section.
 </p>
 
 <p align="center">
