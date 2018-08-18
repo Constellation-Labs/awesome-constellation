@@ -3,7 +3,7 @@
 [comment]: <Provide links with information, not explanations and not advertisment.>
 
 <p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
-<p align="center">:scroll:The curated resource list</p>
+<p align="center">:scroll:The curated resource list for information on Constellation's software.</p>
 
 [comment]: <No title header atm., as the logo functions as a title.>
 
@@ -86,6 +86,10 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 
 #### APIs
 
+- (tbd)
+
+You can also check out the [testnet visualizer](https://testnet.constellationlabs.io/).
+
 #### Build Instructions
 
 (tbd)
@@ -117,7 +121,7 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 
 ### dApps
 
-#### List of dApps
+#### List of decentralized applications on Constellation
 
 ##### On Testnet
 
@@ -207,7 +211,7 @@ See also [explorers](#explorers).
 
 ## About Constellation
 
-Check out the [official website](https://constellationlabs.io/) for information about our roadmap, our team, the newsletter and more
+- [official website](https://constellationlabs.io/) - for information about our roadmap, our team, the newsletter and more. - [link list | linktr](https://linktr.ee/constellation_labs) - for blogs and announcements.
 
 ### Employees
 
@@ -267,6 +271,8 @@ Comparisons and reviews.
 
 (tbd)
 
+If you look for basic branded items, the [cryptothings](https://cryptothings.store/product-category/constellation/) store sells some.
+
 ---
 
 ## The DAG Token
@@ -287,9 +293,8 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 ### Explorers
 
+- [DAG token tracker | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
 - [DAG contract | Etherscan](https://etherscan.io/address/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
-- [DAG token | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667#token)
-- [DAG tracker | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
 
 ### Exchanges
 
@@ -317,11 +322,11 @@ As noted in the [Community](#community) section, be aware that there is a [Teleg
 See also the open community section above, e.g. with [Reddit](https://www.reddit.com/r/constellation).
 
 - [Official blog](https://constellationlabs.io/blog/)
+- [LinkedIn](https://www.linkedin.com/company/constellation-labs/)
 - [Twitter](https://twitter.com/conste11ation)
 - [Facebook](https://www.facebook.com/Conste11ation)
 - [Instagram](https://www.instagram.com/constellation_labs)
 - [Quora](https://www.quora.com/profile/Constellation-Labs-1)
-- [LinkedIn](https://www.linkedin.com/company/constellation-labs/)
 
 ### Coverage
 
