@@ -3,11 +3,33 @@
 [comment]: <Provide links with information, not explanations and not advertisment.>
 
 <p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
-<p align="center">:scroll:The curated resource list for information on Constellation's software.</p>
+<p align="center">:scroll:The curated resource list.</p>
 
 [comment]: <No title header atm., as the logo functions as a title.>
 
-## Contents
+### Table of Contents (short version)
+
+[comment]: <First level content overview (i.e. ## markup headers)>
+
+- :two_hearts:[Community](#community)
+- :computer:[Development](#development)
+- :microscope:[Research](#research)
+- :question:[Technical FAQ](#technical-faq)
+- :milky_way:[About Constellation](#about-constellation)
+- :art:[Design](#design)
+- :moneybag:[The DAG Token](#the-dag-token)
+- :loudspeaker:[Media](#merchandise)
+
+### Wait, there's more ...
+
+This repository provides links to information within the Constellation ecosystem, the primary target audience being software developers and community contributors. 
+As of today (October 2018), our core focus is on developing the protocol. To deep dive into the reference implementation, check out the docs.
+If you want to understand how Constellation fits into the crypto space at large, the wiki might be the place to start. 
+
+* [/constellation/docs](https://github.com/Constellation-Labs/constellation/dev/docs)
+* [/constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
+
+## Table of Contents
 
 [comment]: <First and second level content overview (i.e. ## and ### markup headers)>
 
@@ -28,7 +50,7 @@
 	* [Concepts](#concepts)
 	* [DAG Technology Challanges And Approaches](#dag-technology-challanges-and-approaches)
 	* [The Constellation Protocol](#the-constellation-protocol)
-- :stars:[About Constellation](#about-constellation)
+- :milky_way:[About Constellation](#about-constellation)
 	* [Employees](#employees)
 	* [Business](#business)
 	* [Orion Community Portal](#orion-community-portal)
@@ -42,6 +64,8 @@
 	* [Article Outlets](#article-outlets)
 	* [News Outlets](#news-outlets)
 	* [General](#news-outlets)
+
+[comment]: <Make sure to fix all the links if you change a section header below!>
 	
 ---
 
@@ -81,23 +105,29 @@ Our static knowledge, news and discussion outlet is the [Orion](https://orion.co
 
 ### Documentation
 
+- [/constellation/docs](https://github.com/Constellation-Labs/constellation/dev/docs)
+- [/constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
 - [Orion developer docs](https://constellation-labs.readme.io/docs)
-- [Core protocol repository wiki](https://github.com/Constellation-Labs/constellation/wiki)
+
+
+#### Build Instructions
+
+- [constellation/dev/docs/build-instructions.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/build-instructions.md)
+
+#### Software dependencies
+
+- [constellation/dev/docs/software-dependencies.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/software-dependencies.md)
+
+Beyond the core implementation of the protocol, possible requirements include
+
+- [docker](https://www.docker.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
+- [vagrant](https://www.vagrantup.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
 
 #### APIs
 
 - (tbd)
 
 You can also check out the [testnet visualizer](https://testnet.constellationlabs.io/).
-
-#### Build Instructions
-
-(tbd)
-
-##### Possible Requirements
-
-- [docker](https://www.docker.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
-- [vagrant](https://www.vagrantup.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
 
 ### Tutorials
 
@@ -112,12 +142,10 @@ You can also check out the [testnet visualizer](https://testnet.constellationlab
 
 - (tbd) - dd/mm/yyyy
 - (tbd) - dd/mm/yyyy
-- (tbd) - dd/mm/yyyy
 
 #### Mainnet
 
-- (tbd) - dd/mm/yyyy
-- (tbd) - dd/mm/yyyy
+(We're currently running on a testnet.)
 
 ### dApps
 
@@ -129,7 +157,11 @@ You can also check out the [testnet visualizer](https://testnet.constellationlab
 
 ##### On Mainnet
 
-(tbd)
+(We're currently running on a testnet.)
+
+### Network Monitoring
+
+See also [explorers](#explorers).
 
 #### Code Examples
 
@@ -138,10 +170,6 @@ You can also check out the [testnet visualizer](https://testnet.constellationlab
 ### SDK
 
 (tbd)
-
-### Network Monitoring
-
-See also [explorers](#explorers).
 
 ### Languages
 
@@ -159,53 +187,15 @@ See also [explorers](#explorers).
 
 (tbd)
 
-#### TeX
-
-(tbd)
-
 ---
 
 ## Research
 
-### Resources
+For literature resources, a Constellation and technical comparisons and reviews of other projects in the space, check out the wiki
 
-#### Literature
-
-##### Books
-
-- [Distributed Computing Through Combinatorial Topology - Maurice Herlihy et al.](https://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782)
-
-##### Academic Papers
-
-(tbd)
-
-### Constellation Technical Papers
-
-#### Articles
-
-- [Blockchain cohomology - Meldman-Floch | arXiv](https://arxiv.org/abs/1805.07047v1) - On protocols in an algebraic topology framework
-
-#### Technical Whitepaper
-
-- [Technical whitepaper v0.1 | github repo](https://github.com/Constellation-Labs/Whitepaper) - Whitepaper v0.1 in various languages
-
----
-
-## Technical FAQ
-
-### Concepts
-
-(tbd - list of notions/concepts)
-
-### DAG Technology Challanges And Approaches
-
-- [Scaling through the HyloChain Consensus Architecture | spec-rationality.com article](http://spec-rationality.com/constellation/)
-
-### The Constellation Protocol
-- not so technical explanation 1 - (tbd)
-- not so technical explanation 2 - (tbd)
-- fees, tps etc. - (tbd)
-- proof of meme, consensus, etc. - (tbd)
+- [/constellation/wiki/Recommended-Reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
+- [/constellation/wiki/FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
+- [/constellation/wiki/Comparisons-to-other-protocols](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
 
 ---
 
@@ -228,27 +218,17 @@ Wyatt (CTO),
 as well as 
 [ismithdrone](https://www.linkedin.com/in/ismithdrone/),
 [mrdiggles](https://www.linkedin.com/in/mrdiggles/),
-[scarpulla11](https://www.linkedin.com/in/scarpulla11/),...
+[scarpulla11](https://www.linkedin.com/in/scarpulla11/), ...
 
 ### Business
 
 [comment]: <Keep this concise!>
 
-- [Business whitepaper]() - (tbd)
+For a broad motivation, check out
+
+* [/whitepaper_v1 (business, 2018)](https://github.com/Constellation-Labs/whitepaper_v1)
 
 #### Strategy & Partners
-
-(tbd)
-
-##### Contact
-
-[Business inqueries | Email](support@constellationlabs.io) - (tbd)
-
-##### Competitors
-
-Comparisons and reviews.
-
-*Note*: This is not for advertisement but for development information. Possible problems with the Constellation solution should be explained in the same fashion as problems with other protocols.
 
 (tbd)
 
@@ -263,13 +243,10 @@ Comparisons and reviews.
 
 ### Visual Identity
 
-(create repo, tbd)
-
+- [/visual-identity | Repository](https://github.com/Constellation-Labs/visual-identity)
 - [About the logo | Orion](https://community.constellationlabs.io/t/a-video-analyzing-and-quickly-scripting-the-constellation-logo-using-python/1942)
 
 ### Merchandise
-
-(tbd)
 
 If you look for basic branded items, the [cryptothings](https://cryptothings.store/product-category/constellation/) store sells some.
 
@@ -321,12 +298,12 @@ As noted in the [Community](#community) section, be aware that there is a [Teleg
 
 See also the open community section above, e.g. with [Reddit](https://www.reddit.com/r/constellation).
 
-- [Official blog](https://constellationlabs.io/blog/)
-- [LinkedIn](https://www.linkedin.com/company/constellation-labs/)
-- [Twitter](https://twitter.com/conste11ation)
-- [Facebook](https://www.facebook.com/Conste11ation)
-- [Instagram](https://www.instagram.com/constellation_labs)
-- [Quora](https://www.quora.com/profile/Constellation-Labs-1)
+[Official blog](https://constellationlabs.io/blog/),
+[LinkedIn](https://www.linkedin.com/company/constellation-labs/),
+[Twitter](https://twitter.com/conste11ation),
+[Facebook](https://www.facebook.com/Conste11ation),
+[Instagram](https://www.instagram.com/constellation_labs),
+[Quora](https://www.quora.com/profile/Constellation-Labs-1)
 
 ### Coverage
 
