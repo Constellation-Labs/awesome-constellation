@@ -73,10 +73,17 @@ If you want to understand how Constellation fits into the crypto space at large,
 
 [comment]: <Listed roughly in order of relevance.>
 
-Our static knowledge, news and discussion outlet is the [Orion](https://orion.constellationlabs.io/) discourse forum. Join our [Discord](https://discordapp.com/) server for a chat. Please also have a look at the [Guidelines](#guidelines) for contributions and troubleshooting, bug reports, support, etc.
+Our static knowledge, news and discussion outlet is the 
+[community portal **Orion**](https://orion.constellationlabs.io/accounts/login/?next=/)
+discourse forum. Join our 
+[discord](https://discordapp.com/invite/KMSmXbV) 
+server for a chat. 
+Please also have a look at the 
+[guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines) 
+for contributions and troubleshooting, bug reports, support, etc.
 
-- [Orion](https://orion.constellationlabs.io/)
-- [Discord](https://discordapp.com/) - (tbd) add static link
+- [Orion](https://orion.constellationlabs.io/accounts/login/?next=/)
+- [Discord](https://discordapp.com/invite/KMSmXbV) 
 - [Reddit](https://www.reddit.com/r/constellation)
 - [Telegram for Community](https://t.me/constellationcommunity)
 | [Telegram for Traders](https://t.me/constellationtrader),
@@ -179,13 +186,7 @@ See also [explorers](#explorers).
 - [Scala | Official website](https://www.scala-lang.org/)
 - [Akka | Docs](https://akka.io/docs/) - Actor model supporting concurrent computing
 
-#### Kotlin 
-
-(tbd)
-
-#### Javascript
-
-(tbd)
+(todo: Kotlin section, Javascript section,...)
 
 ---
 
@@ -201,11 +202,11 @@ For literature resources, a Constellation and technical comparisons and reviews 
 
 ## About Constellation
 
-- [official website](https://constellationlabs.io/) - for information about our roadmap, our team, the newsletter and more. - [link list | linktr](https://linktr.ee/constellation_labs) - for blogs and announcements.
+- [Official website](https://constellationlabs.io/) - for information about our roadmap, our team, the newsletter and more
+- [Link list | linktr](https://linktr.ee/constellation_labs) - for blogs and announcements.
 
 ### Employees
 
-Brendan (CEO),
 [Brion](https://www.linkedin.com/in/brionhickey/),
 [Gina](https://www.linkedin.com/in/ginarubino/),
 [Giovanni](https://www.linkedin.com/in/giovannigastelum/),
@@ -223,14 +224,13 @@ as well as
 ### Business
 
 [comment]: <Keep this concise!>
-
 For a broad motivation, check out
 
 * [/whitepaper_v1 (business, 2018)](https://github.com/Constellation-Labs/whitepaper_v1)
 
 #### Strategy & Partners
 
-(tbd)
+* [Hyperledger](https://www.hyperledger.org/members)
 
 ### Orion Community Portal
 
@@ -254,21 +254,26 @@ If you look for basic branded items, the [cryptothings](https://cryptothings.sto
 
 ## The DAG Token
 
-DAG is currently an ERC20 token on the [Ethereum](https://www.ethereum.org/) blockchain and, as such, supported by various Ethereum wallets. You'll find support on the #support channel on the [Discord](https://discordapp.com/) server. Lots of information about the token has been posted on the [official blog](https://constellationlabs.io/blog/) on the official homepage.
+DAG is currently an ERC20 token on the 
+[Ethereum](https://www.ethereum.org/) 
+blockchain and, as such, supported by various Ethereum wallets. You'll find support on the #support channel on the 
+[discord](https://discordapp.com/) 
+server. Lots of information about the token has been posted on the 
+[official blog](https://constellationlabs.io/blog/) 
+on the official homepage.
 
 ### Wallets
 
 - [Metamask](https://metamask.io) - Browser plugin wallet
 - [MyEtherWallet](http://myetherwallet.com/) - Browser wallet
 
-#### Tutorials 
-
-The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
+MyEtherWallet tutorial:
 
 - [How to ... add DAG to MyEtherWallet | Orion](https://community.constellationlabs.io/t/adding-dag-to-myetherwallet-mew/1892)
-- (tbd)
 
 ### Explorers
+
+The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 - [DAG token tracker | Etherscan](https://etherscan.io/token/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
 - [DAG contract | Etherscan](https://etherscan.io/address/0xa8258abc8f2811dd48eccd209db68f25e3e34667)
@@ -283,7 +288,10 @@ See also the *Markets* tab on [coinmarketcap.com](https://coinmarketcap.com/curr
 
 ### Airdrop
 
-As noted in the [Community](#community) section, be aware that there is a [Telegram for Airdrops](https://t.me/constellationcommunityairdrop). 
+As noted in the 
+[Community section](#community), 
+be aware that there is a 
+[Telegram for Airdrops](https://t.me/constellationcommunityairdrop). 
 
 ---
 
@@ -296,7 +304,8 @@ As noted in the [Community](#community) section, be aware that there is a [Teleg
 
 ### News Outlets
 
-See also the open community section above, e.g. with [Reddit](https://www.reddit.com/r/constellation).
+See also the open community section above, e.g. with 
+[Reddit](https://www.reddit.com/r/constellation).
 
 [Official blog](https://constellationlabs.io/blog/),
 [LinkedIn](https://www.linkedin.com/company/constellation-labs/),
@@ -317,7 +326,6 @@ This section provides informations to fill you in on development, strategy, meet
 
 ##### Interviews
 
-- [Technical outlook | youtube/ConstellationLabs](https://www.youtube.com/watch?v=SsYZF4msXuQ&t=374s) - with Brendan, Wyatt and Ryle
 - [Technical outlook | youtube/CryptoZombie](https://youtu.be/TjZUvE5wpaI) - with Brendan and Ryle
 
 (tbd, there are many noteworthy links to paste here, but keep it concise too!)
