@@ -282,9 +282,11 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 - [Kucoin | DAG-BTC](https://www.kucoin.com/#/trade.pro/DAG-BTC)
 - [Kucoin | DAG-ETH](https://www.kucoin.com/#/trade.pro/DAG-ETH)
-- Hotbit, IDEX, DEx.top, Bilaxy - (tbd)
+- [HitBit | DAG-BTC](https://hitbtc.com/DAG-to-BTC)
+- [HitBit | DAG-ETH](https://hitbtc.com/DAG-to-BTC)
+- also Hotbit, IDEX, DEx.top, Bilaxy, etc.
 
-See also the *Markets* tab on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/).
+See the *Markets tab* on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/#markets).
 
 ### Airdrop
 
