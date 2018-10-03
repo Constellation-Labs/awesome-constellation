@@ -14,10 +14,9 @@
 - :two_hearts:[Community](#community)
 - :computer:[Development](#development)
 - :microscope:[Research](#research)
-- :question:[Technical FAQ](#technical-faq)
-- :milky_way:[About Constellation](#about-constellation)
-- :art:[Design](#design)
 - :moneybag:[The DAG Token](#the-dag-token)
+- :art:[Design](#design)
+- :milky_way:[About Constellation](#about-constellation)
 - :loudspeaker:[Media](#merchandise)
 
 ### Wait, there's more ...
@@ -35,8 +34,8 @@ If you want to understand how Constellation fits into the crypto space at large,
 
 - :two_hearts:[Community](#community)
 - :computer:[Development](#development)
-	* [Code Base](#code-base)
 	* [Guidelines](#guidelines)
+	* [Code Base](#code-base)
 	* [Documentation](#documentation)
 	* [Tutorials](#tutorials)
 	* [SDK](#sdk)
@@ -44,26 +43,21 @@ If you want to understand how Constellation fits into the crypto space at large,
 	* [Network monitoring](#network-monitoring)
 	* [Languages](#languages)
 - :microscope:[Research](#research)
-	* [Resources](#resources)
-	* [Constellation Technical Papers](#constellation-technical-papers)
-- :question:[Technical FAQ](#technical-faq)
-	* [Concepts](#concepts)
-	* [DAG Technology Challanges And Approaches](#dag-technology-challanges-and-approaches)
-	* [The Constellation Protocol](#the-constellation-protocol)
-- :milky_way:[About Constellation](#about-constellation)
+- :moneybag:[The DAG Token](#the-dag-token)
+	* [Explorers](#explorers)
+	* [Exchanges](#exchanges)
 	* [Employees](#employees)
 	* [Business](#business)
 	* [Orion Community Portal](#orion-community-portal)
 - :art:[Design](#design)
 	* [Visual Identity](#visual-identity)
  	* [Merchandise](#merchandise)
-- :moneybag:[The DAG Token](#the-dag-token)
-	* [Explorers](#explorers)
-	* [Exchanges](#exchanges)
-- :loudspeaker:[Media](#merchandise)
-	* [Article Outlets](#article-outlets)
-	* [News Outlets](#news-outlets)
-	* [General](#news-outlets)
+- :milky_way:[About Constellation](#about-constellation)
+	* [Employees](#employees)
+ 	* [Business](#business)
+- :loudspeaker:[Media](#media)
+	* [Article and news Outlets](#article-and-news-outlets)
+	* [Third party coverage and inverviews](#third-party-coverage-and-inverviews)
 
 [comment]: <Make sure to fix all the links if you change a section header below!>
 	
@@ -95,6 +89,11 @@ for contributions and troubleshooting, bug reports, support, etc.
 
 [comment]: <The following is why we ended up on github in the first place!>
 
+### Guidelines
+
+For standards on code style, reporting troubleshooting and issues, pull requests and so on, check out
+[/wiki/Contribution-guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines).
+
 ### Code Base
 
 [comment]: <Listed in order of current relevance and what's being worked on.>
@@ -102,20 +101,11 @@ for contributions and troubleshooting, bug reports, support, etc.
 - [github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
 
-### Guidelines
-
-- Troubleshooting, bugs, tickets, [support](support@constellationlabs.io) - (tbd)
-- code of conduct - (tbd)
-- naming conventions - (tbd)
-- branch logic - (tbd)
-- permissions logic - (tbd)
-
 ### Documentation
 
 - [/constellation/docs](https://github.com/Constellation-Labs/constellation/dev/docs)
 - [/constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
 - [Orion developer docs](https://constellation-labs.readme.io/docs)
-
 
 #### Build Instructions
 
@@ -127,12 +117,12 @@ for contributions and troubleshooting, bug reports, support, etc.
 
 Beyond the core implementation of the protocol, possible requirements include
 
-- [docker](https://www.docker.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
-- [vagrant](https://www.vagrantup.com/) - see [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
+- [docker](https://www.docker.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
+- [vagrant](https://www.vagrantup.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
 
 #### APIs
 
-- (tbd)
+(tbd)
 
 You can also check out the [testnet visualizer](https://testnet.constellationlabs.io/).
 
@@ -160,11 +150,11 @@ You can also check out the [testnet visualizer](https://testnet.constellationlab
 
 ##### On Testnet
 
-(tbd)
+(tbd.)
 
 ##### On Mainnet
 
-(We're currently running on a testnet.)
+We're currently running on a testnet.
 
 ### Network Monitoring
 
@@ -197,58 +187,6 @@ For literature resources, a Constellation and technical comparisons and reviews 
 - [/constellation/wiki/Recommended-Reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
 - [/constellation/wiki/FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
 - [/constellation/wiki/Comparisons-to-other-protocols](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
-
----
-
-## About Constellation
-
-- [Official website](https://constellationlabs.io/) - for information about our roadmap, our team, the newsletter and more
-- [Link list | linktr](https://linktr.ee/constellation_labs) - for blogs and announcements.
-
-### Employees
-
-[Brion](https://www.linkedin.com/in/brionhickey/),
-[Gina](https://www.linkedin.com/in/ginarubino/),
-[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
-[James](https://www.linkedin.com/in/james-markotic/),
-[Preston](https://www.linkedin.com/in/prestonparris/) (Dev.),
-[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/) (VP of Eng.),
-[Tyler](https://www.linkedin.com/in/tylerprete/) (Dev.),
-Wyatt (CTO),
-[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/), 
-as well as 
-[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
-[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
-[scarpulla11](https://www.linkedin.com/in/scarpulla11/), ...
-
-### Business
-
-[comment]: <Keep this concise!>
-For a broad motivation, check out
-
-* [/whitepaper_v1 (business, 2018)](https://github.com/Constellation-Labs/whitepaper_v1)
-
-#### Strategy & Partners
-
-* [Hyperledger](https://www.hyperledger.org/members)
-
-### Orion Community Portal
-
-- Staking - (tbd)
-- HowTo's - (tbd)
-
----
-
-## Design
-
-### Visual Identity
-
-- [/visual-identity | Repository](https://github.com/Constellation-Labs/visual-identity)
-- [About the logo | Orion](https://community.constellationlabs.io/t/a-video-analyzing-and-quickly-scripting-the-constellation-logo-using-python/1942)
-
-### Merchandise
-
-If you look for basic branded items, the [cryptothings](https://cryptothings.store/product-category/constellation/) store sells some.
 
 ---
 
@@ -297,40 +235,86 @@ be aware that there is a
 
 ---
 
+## Design
+
+### Visual Identity
+
+The 
+[/visual-identity](https://github.com/Constellation-Labs/visual-identity)
+repository holds hundrets of graphics material for the Constellation brand. See e.g. the
+[/logo](https://github.com/Constellation-Labs/visual-identity/tree/master/logo) 
+folder. Here is 
+[a video](https://community.constellationlabs.io/t/a-video-analyzing-and-quickly-scripting-the-constellation-logo-using-python/1942)
+explaining the specification of the latter.
+
+### Merchandise
+
+If you look for basic branded items, the [cryptothings](https://cryptothings.store/product-category/constellation/) store sells some.
+
+---
+
+## About Constellation
+
+- [Official website](https://constellationlabs.io/) - for information about our roadmap, our team, the newsletter and more
+- [Link list | linktr](https://linktr.ee/constellation_labs) - for blogs and announcements.
+
+For a broad motivation of the project, check out the
+[/whitepaper_v1 (business, 2018)](https://github.com/Constellation-Labs/whitepaper_v1).
+
+### Employees
+
+[Brion](https://www.linkedin.com/in/brionhickey/),
+[Gina](https://www.linkedin.com/in/ginarubino/),
+[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
+[James](https://www.linkedin.com/in/james-markotic/),
+[Preston](https://www.linkedin.com/in/prestonparris/) (Dev.),
+[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/) (VP of Eng.),
+[Tyler](https://www.linkedin.com/in/tylerprete/) (Dev.),
+Wyatt (CTO),
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/), 
+as well as 
+[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
+[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
+[scarpulla11](https://www.linkedin.com/in/scarpulla11/), ...
+
+### Business
+
+#### Strategy & Partners
+
+* [Hyperledger](https://www.hyperledger.org/members)
+
+---
+
 ## Media
 
-### Article Outlets
+### Article and news Outlets
+
+For video and text material from the source, see
 
 - [YouTube](https://www.youtube.com/channel/UChMBV4al3p_iO4bnfzcIzVQ)
 - [Medium](https://medium.com/constellationlabs)
+- [Official blog](https://constellationlabs.io/blog/),
 
-### News Outlets
+and then the open community section above, e.g. with 
+[Reddit](https://www.reddit.com/r/constellation). 
 
-See also the open community section above, e.g. with 
-[Reddit](https://www.reddit.com/r/constellation).
-
-[Official blog](https://constellationlabs.io/blog/),
+Beyond that, there's 
 [LinkedIn](https://www.linkedin.com/company/constellation-labs/),
 [Twitter](https://twitter.com/conste11ation),
 [Facebook](https://www.facebook.com/Conste11ation),
 [Instagram](https://www.instagram.com/constellation_labs),
-[Quora](https://www.quora.com/profile/Constellation-Labs-1)
+[Quora](https://www.quora.com/profile/Constellation-Labs-1), 
+etc.
 
-### Coverage
+### Third party coverage and inverviews
 
 This section provides informations to fill you in on development, strategy, meetups, competitions, etc. 
 
-*Note*: This section should be kept to the point and development oeriented.
+*Note*: This section should be kept short, to the point and development oriented.
 
-#### Videos
-
-[comment]: <This is not supposed to be a dump of any related video - be selective and keep it concise.>
-
-##### Interviews
+[comment]: <This is not supposed to be a dump of any related video - be selective and keep it concise!>
 
 - [Technical outlook | youtube/CryptoZombie](https://youtu.be/TjZUvE5wpaI) - with Brendan and Ryle
-
-(tbd, there are many noteworthy links to paste here, but keep it concise too!)
 
 ---
 
