@@ -103,7 +103,7 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 
 ### Documentation
 
-- [/constellation/docs](https://github.com/Constellation-Labs/constellation/dev/docs)
+- [/constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
 - [/constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
 - [Orion developer docs](https://constellation-labs.readme.io/docs)
 
