@@ -228,6 +228,9 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 
 See the *Markets tab* on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/#markets).
 
+### Tokenomics
+- [blog/tokenomics-update](https://constellationlabs.io/blog/index.php/tokenomics-update/)
+
 ### Airdrop
 
 As noted in the 
