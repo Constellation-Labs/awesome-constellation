@@ -126,8 +126,6 @@ Beyond the core implementation of the protocol, possible requirements include
 
 (tbd)
 
-You can also check out the [testnet visualizer](https://testnet.constellationlabs.io/).
-
 ### Tutorials
 
 #### Third Party
@@ -160,7 +158,9 @@ We're currently running on a testnet.
 
 ### Network Monitoring
 
-See also [explorers](#explorers).
+- You may check out the [testnet visualizer](https://testnet.constellationlabs.io/)
+- See also the blockpost [blog/tps-benchmarking](https://constellationlabs.io/blog/index.php/network-stability-update/)
+- For the Etheruem token, see [explorers](#explorers)
 
 #### Code Examples
 
