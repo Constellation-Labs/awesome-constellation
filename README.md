@@ -79,11 +79,15 @@ Please also have a look at the
 for contributions and troubleshooting, bug reports, support, etc.
 
 - [Orion](https://orion.constellationlabs.io/accounts/login/?next=/)
-- [Discord](https://discordapp.com/invite/KMSmXbV) 
 - [Reddit](https://www.reddit.com/r/constellation)
 - [Telegram for Community](https://t.me/constellationcommunity)
 | [Telegram for Traders](https://t.me/constellationtrader),
 | [Telegram for Airdrops](https://t.me/constellationcommunityairdrop)
+- [Discord](https://discordapp.com/invite/KMSmXbV):
+
+  <a href="https://discordapp.com/invite/KMSmXbV">
+	  <img src="https://img.shields.io/badge/chat-discord-brightgreen.svg"/>
+  </a>
 
 ---
 
