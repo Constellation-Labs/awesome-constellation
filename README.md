@@ -75,9 +75,10 @@ discourse forum. Join our
 [discord](https://discordapp.com/invite/KMSmXbV) 
 server for a chat. 
 
-	<a href="https://discordapp.com/invite/KMSmXbV">
-		<img src="https://img.shields.io/badge/chat-discord-brightgreen.svg"/>
-	</a>
+  <a href="https://discordapp.com/invite/KMSmXbV">
+	  <img src="https://img.shields.io/badge/chat-discord-brightgreen.svg"/>
+  </a>
+
 
 Please also have a look at the 
 [guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines) 
