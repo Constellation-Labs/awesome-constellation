@@ -105,9 +105,14 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 
 ### Documentation
 
-- [/constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
 - [/constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
-- [Orion developer docs](https://constellation-labs.readme.io/docs)
+	* [Comparisons-to-other-protocols](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
+	* ...
+- [/constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
+	* [architecture](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/architecture.md)
+	* [build-instructions](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/build-instructions.md)
+	* ...
+- [Orion developer docs](https://constellation-labs.readme.io/docs) (tbd)
 
 #### Build Instructions
 
@@ -284,7 +289,13 @@ as well as
 
 ### Business
 
-#### Strategy & Partners
+#### Strategy
+
+(tbd: consensus-as-a-service, edge-computing)
+
+* [cbinsights on edge computing](www.cbinsights.com/research/what-is-edge-computing/)
+
+#### Partners
 
 * [Hyperledger](https://www.hyperledger.org/members)
 
