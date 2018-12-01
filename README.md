@@ -59,7 +59,6 @@ If you want to understand how Constellation fits into the crypto space at large,
  	* [Business](#business)
 - :loudspeaker:[Media](#media)
 	* [Article and news Outlets](#article-and-news-outlets)
-	* [Third party coverage and inverviews](#third-party-coverage-and-inverviews)
 
 [comment]: <Make sure to fix all the links if you change a section header below!>
 	
@@ -110,15 +109,18 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
 
 ### Documentation
-
-- [/constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
-	* [Comparisons-to-other-protocols](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
-	* ...
-- [/constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
+- [Documentation web page](https://constellation-labs.github.io/constellation/)
+	* [running-a-node](https://constellation-labs.github.io/constellation/running-a-node/)
+- [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
 	* [architecture](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/architecture.md)
 	* [build-instructions](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/build-instructions.md)
 	* ...
-- [Orion developer docs](https://constellation-labs.readme.io/docs) (tbd)
+- [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
+	* [Constellation Glossary](https://github.com/Constellation-Labs/constellation/wiki/Constellation-Glossary)
+	* [Discussion and comparison against other projects](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
+	* [Recommended reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
+	* [FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
+	* [Code contribution guidelines](https://github.com/Constellation-Labs/constellation/wiki/contribution-guidelines)
 
 #### Build Instructions
 
@@ -133,10 +135,6 @@ Beyond the core implementation of the protocol, possible requirements include
 - [docker](https://www.docker.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
 - [vagrant](https://www.vagrantup.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
 
-#### APIs
-
-(tbd)
-
 ### Tutorials
 
 #### Third Party
@@ -146,14 +144,15 @@ Beyond the core implementation of the protocol, possible requirements include
 
 ### Ledger Bootstrap Files
 
+#### Mainnet
+
+We're currently running on a testnet. 
+If you want to take part during this phase, [register here](https://docs.google.com/forms/d/e/1FAIpQLSeYZVXBu2zbiAwk6IDofHkxswurM-lxmzCaY_lMXytD1NCMXw/viewform?_hsenc=p2ANqtz-_cQXKsV4sWNaOpbmtqMuoNnENd8wgEBpYkEv2Wun-xYBd4iEPUfzFHcN1gCItLKnGaFM3tZJtR1FJSO6paUmLpMEoBeA&_hsmi=67965834) to run a node.
+
 #### Testnet
 
 - (tbd) - dd/mm/yyyy
 - (tbd) - dd/mm/yyyy
-
-#### Mainnet
-
-(We're currently running on a testnet.)
 
 ### dApps
 
@@ -256,7 +255,7 @@ be aware that there is a
 ### Visual Identity
 
 The 
-[/visual-identity](https://github.com/Constellation-Labs/visual-identity)
+[visual-identity](https://github.com/Constellation-Labs/visual-identity)
 repository holds hundrets of graphics material for the Constellation brand. See e.g. the
 [/logo](https://github.com/Constellation-Labs/visual-identity/tree/master/logo) 
 folder. Here is 
@@ -283,27 +282,28 @@ For a broad motivation of the project, check out the
 [Gina](https://www.linkedin.com/in/ginarubino/),
 [Giovanni](https://www.linkedin.com/in/giovannigastelum/),
 [James](https://www.linkedin.com/in/james-markotic/),
+[Mathias](https://www.linkedin.com/in/mathias-goldmann-711a85110/) (Finance, see [introduction video](https://youtu.be/kDI3IKtEmb8))
 [Preston](https://www.linkedin.com/in/prestonparris/) (Dev.),
 [Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/) (VP of Eng.),
 [Tyler](https://www.linkedin.com/in/tylerprete/) (Dev.),
-Wyatt (CTO),
+[Wyatt](https://www.linkedin.com/in/wlmeldmanfloch/) (CTO),
 [Zac](https://www.linkedin.com/in/zac-russell-62b2a923/), 
 as well as 
-[ismithdrone](https://www.linkedin.com/in/ismithdrone/),
-[mrdiggles](https://www.linkedin.com/in/mrdiggles/),
+[Mr Diggles](https://www.linkedin.com/in/mrdiggles/),
 [scarpulla11](https://www.linkedin.com/in/scarpulla11/), ...
 
 ### Business
 
 #### Strategy
 
-(tbd: consensus-as-a-service, edge-computing)
-
 * [cbinsights on edge computing](www.cbinsights.com/research/what-is-edge-computing/)
+
+(tbd: consensus-as-a-service)
 
 #### Partners
 
 * [Hyperledger](https://www.hyperledger.org/members)
+* [MOBI](https://www.dlt.mobi/)
 
 ---
 
@@ -319,7 +319,6 @@ For video and text material from the source, see
 
 and then the open community section above, e.g. with 
 [Reddit](https://www.reddit.com/r/constellation). 
-
 Beyond that, there's 
 [LinkedIn](https://www.linkedin.com/company/constellation-labs/),
 [Twitter](https://twitter.com/conste11ation),
@@ -327,16 +326,6 @@ Beyond that, there's
 [Instagram](https://www.instagram.com/constellation_labs),
 [Quora](https://www.quora.com/profile/Constellation-Labs-1), 
 etc.
-
-### Third party coverage and inverviews
-
-This section provides informations to fill you in on development, strategy, meetups, competitions, etc. 
-
-*Note*: This section should be kept short, to the point and development oriented.
-
-[comment]: <This is not supposed to be a dump of any related video - be selective and keep it concise!>
-
-- [Technical outlook | youtube/CryptoZombie](https://youtu.be/TjZUvE5wpaI) - with Brendan and Ryle
 
 ---
 
