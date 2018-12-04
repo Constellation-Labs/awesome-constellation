@@ -86,9 +86,13 @@ for contributions and troubleshooting, bug reports, support, etc.
 - [Orion](https://orion.constellationlabs.io/accounts/login/?next=/)
 - [Discord](https://discordapp.com/invite/KMSmXbV)
 - [Reddit](https://www.reddit.com/r/constellation)
-- [Telegram for Community](https://t.me/constellationcommunity)
-| [Telegram for Traders](https://t.me/constellationtrader)
-| [Telegram for Airdrops](https://t.me/constellationcommunityairdrop)
+- Telegram: [**Community**](https://t.me/constellationcommunity)
+| [**Traders**](https://t.me/constellationtrader)
+| [Airdrop Info](https://t.me/constellationcommunityairdrop)
+| [Brasilian](https://t.me/constellationbrasil)
+| [Russian](https://t.me/Constellation_Russian)
+| [Korean](https://t.me/constellationcommunity_KOR)
+
 
 ---
 
@@ -313,9 +317,9 @@ as well as
 
 For video and text material from the source, see
 
+- [Official blog](https://constellationlabs.io/blog/)
 - [YouTube](https://www.youtube.com/channel/UChMBV4al3p_iO4bnfzcIzVQ)
 - [Medium](https://medium.com/constellationlabs)
-- [Official blog](https://constellationlabs.io/blog/),
 
 and then the open community section above, e.g. with 
 [Reddit](https://www.reddit.com/r/constellation). 
