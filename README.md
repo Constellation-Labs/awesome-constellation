@@ -25,8 +25,8 @@ This repository provides links to information within the Constellation ecosystem
 As of today (October 2018), our core focus is on developing the protocol. To deep dive into the reference implementation, check out the docs.
 If you want to understand how Constellation fits into the crypto space at large, the wiki might be the place to start. 
 
-* [/constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
-* [/constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
+* [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
+* [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
 
 [comment]: <Note that we link to the development branch here, which is updated more often.>
 
@@ -121,6 +121,7 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 	* ...
 - [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
 	* [Constellation Glossary](https://github.com/Constellation-Labs/constellation/wiki/Constellation-Glossary)
+	* [Roadmap](https://github.com/Constellation-Labs/constellation/wiki/Roadmap)
 	* [Discussion and comparison against other projects](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
 	* [Recommended reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
 	* [FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
