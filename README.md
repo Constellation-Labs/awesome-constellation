@@ -208,13 +208,13 @@ For literature resources, a Constellation and technical comparisons and reviews 
 
 ## The DAG Token
 
-DAG is currently an ERC20 token on the 
+DAG is currently an ERC-20 token on the 
 [Ethereum](https://www.ethereum.org/) 
 blockchain and, as such, supported by various Ethereum wallets. You'll find support on the #support channel on the 
 [discord](https://discordapp.com/) 
-server. Lots of information about the token has been posted on the 
+server. Total supply is 4b of which about 1b is circulating some over 2b will be rewarded to validators as well as contributions and project. Lots of information about the token has been posted on the 
 [official blog](https://constellationlabs.io/blog/) 
-on the official homepage.
+on the official homepage. 
 
 ### Wallets
 
