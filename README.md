@@ -127,6 +127,19 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 	* [FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
 	* [Code contribution guidelines](https://github.com/Constellation-Labs/constellation/wiki/contribution-guidelines)
 
+#### Software dependencies
+
+- [constellation/dev/docs/software-dependencies.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/software-dependencies.md)
+
+Beyond the core implementation of the protocol requiring Java or, if you build it yourself, Scala, possible requirements include
+
+- [docker](https://www.docker.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
+- [vagrant](https://www.vagrantup.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
+
+#### Build Instructions
+
+- [constellation/dev/docs/build-instructions.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/build-instructions.md)
+
 ### Running a node
 For now we onboard people to our private testnet that apply 
 [in the form](https://docs.google.com/forms/d/e/1FAIpQLSeYZVXBu2zbiAwk6IDofHkxswurM-lxmzCaY_lMXytD1NCMXw/viewform) 
@@ -146,19 +159,6 @@ If you have questions, ask in the #testnet chat on [Discord](https://discordapp.
     Software:  Java 8.x
 ```
 Make sure the relevant ports are open / not firewalled. 
-
-#### Build Instructions
-
-- [constellation/dev/docs/build-instructions.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/build-instructions.md)
-
-#### Software dependencies
-
-- [constellation/dev/docs/software-dependencies.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/software-dependencies.md)
-
-Beyond the core implementation of the protocol requiring Java or, if you build it yourself, Scala, possible requirements include
-
-- [docker](https://www.docker.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
-- [vagrant](https://www.vagrantup.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
 
 ### Tutorials
 
