@@ -100,11 +100,6 @@ for contributions and troubleshooting, bug reports, support, etc.
 
 [comment]: <The following is why we ended up on github in the first place!>
 
-### Guidelines
-
-For standards on code style, reporting troubleshooting and issues, pull requests and so on, check out
-[/wiki/Contribution-guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines).
-
 ### Code Base
 
 [comment]: <Listed in order of current relevance and what's being worked on.>
@@ -112,9 +107,31 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 - [github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
 
-### Running a node
+#### Guidelines
 
-For now we onboard people to our private testnet that apply [in the form on this Orion thread](https://community.constellationlabs.io/t/launch-and-operate-an-inaugural-constellation-testnet-node/891) 
+For standards on code style, reporting troubleshooting and issues, pull requests and so on, check out
+[/wiki/Contribution-guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines).
+
+### Documentation
+
+- [Documentation web page](https://constellation-labs.github.io/constellation/)
+	* [running-a-node](https://constellation-labs.github.io/constellation/running-a-node/)
+- [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
+	* [architecture](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/architecture.md)
+	* ...
+- [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
+	* [Constellation Glossary](https://github.com/Constellation-Labs/constellation/wiki/Constellation-Glossary)
+	* [Roadmap](https://github.com/Constellation-Labs/constellation/wiki/Roadmap)
+	* [Discussion and comparison against other projects](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
+	* [Recommended reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
+	* [FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
+	* [Code contribution guidelines](https://github.com/Constellation-Labs/constellation/wiki/contribution-guidelines)
+
+### Running a node
+For now we onboard people to our private testnet that apply 
+[in the form](https://docs.google.com/forms/d/e/1FAIpQLSeYZVXBu2zbiAwk6IDofHkxswurM-lxmzCaY_lMXytD1NCMXw/viewform) 
+on 
+[this Orion thread](https://community.constellationlabs.io/t/launch-and-operate-an-inaugural-constellation-testnet-node/891).
 
 You find the documentation down below and more is coming, as well as more support for terraform and docker.
 
@@ -130,22 +147,6 @@ If you have questions, ask in the #testnet chat on [Discord](https://discordapp.
 ```
 Make sure the relevant ports are open / not firewalled. 
 
-### Documentation
-
-- [Documentation web page](https://constellation-labs.github.io/constellation/)
-	* [running-a-node](https://constellation-labs.github.io/constellation/running-a-node/)
-- [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
-	* [architecture](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/architecture.md)
-	* [build-instructions](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/build-instructions.md)
-	* ...
-- [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
-	* [Constellation Glossary](https://github.com/Constellation-Labs/constellation/wiki/Constellation-Glossary)
-	* [Roadmap](https://github.com/Constellation-Labs/constellation/wiki/Roadmap)
-	* [Discussion and comparison against other projects](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
-	* [Recommended reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
-	* [FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
-	* [Code contribution guidelines](https://github.com/Constellation-Labs/constellation/wiki/contribution-guidelines)
-
 #### Build Instructions
 
 - [constellation/dev/docs/build-instructions.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/build-instructions.md)
@@ -154,7 +155,7 @@ Make sure the relevant ports are open / not firewalled.
 
 - [constellation/dev/docs/software-dependencies.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/software-dependencies.md)
 
-Beyond the core implementation of the protocol, possible requirements include
+Beyond the core implementation of the protocol requiring Java or, if you build it yourself, Scala, possible requirements include
 
 - [docker](https://www.docker.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
 - [vagrant](https://www.vagrantup.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
