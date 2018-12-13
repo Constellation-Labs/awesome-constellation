@@ -107,26 +107,6 @@ for contributions and troubleshooting, bug reports, support, etc.
 - [github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
 
-#### Guidelines
-
-For standards on code style, reporting troubleshooting and issues, pull requests and so on, check out
-[/wiki/Contribution-guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines).
-
-### Documentation
-
-- [Documentation web page](https://constellation-labs.github.io/constellation/)
-	* [running-a-node](https://constellation-labs.github.io/constellation/running-a-node/)
-- [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
-	* [architecture](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/architecture.md)
-	* ...
-- [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
-	* [Constellation Glossary](https://github.com/Constellation-Labs/constellation/wiki/Constellation-Glossary)
-	* [Roadmap](https://github.com/Constellation-Labs/constellation/wiki/Roadmap)
-	* [Discussion and comparison against other projects](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
-	* [Recommended reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
-	* [FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
-	* [Code contribution guidelines](https://github.com/Constellation-Labs/constellation/wiki/contribution-guidelines)
-
 #### Software dependencies
 
 - [constellation/dev/docs/software-dependencies.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/software-dependencies.md)
@@ -135,6 +115,11 @@ Beyond the core implementation of the protocol requiring Java or, if you build i
 
 - [docker](https://www.docker.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
 - [vagrant](https://www.vagrantup.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
+
+#### Guidelines
+
+For standards on code style, reporting troubleshooting and issues, pull requests and so on, check out
+[/wiki/Contribution-guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines).
 
 #### Build Instructions
 
@@ -159,6 +144,21 @@ If you have questions, ask in the #testnet chat on [Discord](https://discordapp.
     Software:  Java 8.x
 ```
 Make sure the relevant ports are open / not firewalled. 
+
+### Documentation
+
+- [Documentation web page](https://constellation-labs.github.io/constellation/)
+	* [running-a-node](https://constellation-labs.github.io/constellation/running-a-node/)
+- [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
+	* [architecture](https://github.com/Constellation-Labs/constellation/blob/developer/nikolaj/add-docs/docs/architecture.md)
+	* ...
+- [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
+	* [Constellation Glossary](https://github.com/Constellation-Labs/constellation/wiki/Constellation-Glossary)
+	* [Roadmap](https://github.com/Constellation-Labs/constellation/wiki/Roadmap)
+	* [Discussion and comparison against other projects](https://github.com/Constellation-Labs/constellation/wiki/Comparisons-to-other-protocols)
+	* [Recommended reading](https://github.com/Constellation-Labs/constellation/wiki/Recommended-Reading)
+	* [FAQ](https://github.com/Constellation-Labs/constellation/wiki/FAQ)
+	* [Code contribution guidelines](https://github.com/Constellation-Labs/constellation/wiki/contribution-guidelines)
 
 ### Tutorials
 
