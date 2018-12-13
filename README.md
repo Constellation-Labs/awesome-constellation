@@ -125,22 +125,24 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 
 - [constellation/dev/docs/build-instructions.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/build-instructions.md)
 
-### Running a node
+### Running a node (tmp)
 For now we onboard people to our private testnet that apply 
 [in the form](https://docs.google.com/forms/d/e/1FAIpQLSeYZVXBu2zbiAwk6IDofHkxswurM-lxmzCaY_lMXytD1NCMXw/viewform) 
 on 
 [this Orion thread](https://community.constellationlabs.io/t/launch-and-operate-an-inaugural-constellation-testnet-node/891).
 
-You find the documentation down below and more is coming, as well as more support for terraform and docker.
+Most operators host the node in the [Google Cloud Platform](https://cloud.google.com/) (GCP) *compute engine* using a Ubuntu or Debian machine. 
 
-If you have questions, ask in the #testnet chat on [Discord](https://discordapp.com/invite/KMSmXbV). The node-operators discuss know-how and hotfixes in #node-operators.
+You find the [**documentation**](https://constellation-labs.github.io/constellation/running-a-node/) down below and more is coming, as well as more support for terraform and docker.
+
+If you have questions, ask in the *#testnet* chat on [Discord](https://discordapp.com/invite/KMSmXbV). The node-operators discuss know-how and hotfixes in *#node-operators*.
 
 #### Minimal specs
 
 ```haskell
-    CPU::      2-core minimum.
+    CPU:       2-core minimum
     Memory:    3 GB or higher
-    Disk:      50-200 GB available.
+    Disk:      50-200 GB available
     Software:  Java 8.x
 ```
 Make sure the relevant ports are open / not firewalled. 
