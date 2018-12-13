@@ -112,7 +112,26 @@ For standards on code style, reporting troubleshooting and issues, pull requests
 - [github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
 
+### Running a node
+
+For now we onboard people to our private testnet that apply [in the form on this Orion thread](https://community.constellationlabs.io/t/launch-and-operate-an-inaugural-constellation-testnet-node/891) 
+
+You find the documentation down below and more is coming, as well as more support for terraform and docker.
+
+If you have questions, ask in the #testnet chat on [Discord](https://discordapp.com/invite/KMSmXbV). The node-operators discuss know-how and hotfixes in #node-operators.
+
+#### Minimal specs
+
+```haskell
+    CPU::      2-core minimum.
+    Memory:    3 GB or higher
+    Disk:      50-200 GB available.
+    Software:  Java 8.x
+```
+Make sure the relevant ports are open / not firewalled. 
+
 ### Documentation
+
 - [Documentation web page](https://constellation-labs.github.io/constellation/)
 	* [running-a-node](https://constellation-labs.github.io/constellation/running-a-node/)
 - [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
