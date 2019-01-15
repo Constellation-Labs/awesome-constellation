@@ -247,6 +247,7 @@ on the official homepage.
 MyEtherWallet tutorial:
 
 - [How to ... add DAG to MyEtherWallet | Orion](https://community.constellationlabs.io/t/adding-dag-to-myetherwallet-mew/1892)
+- [Guide on Setting Up a MyEtherWallet | Benjamin Diggles of Constellation](https://youtu.be/gEU3NQUM6EI)
 
 ### Explorers
 
