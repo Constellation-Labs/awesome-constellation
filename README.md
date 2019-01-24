@@ -235,9 +235,7 @@ DAG is currently an ERC-20 token on the
 [Ethereum](https://www.ethereum.org/) 
 blockchain and, as such, supported by various Ethereum wallets. You'll find support on the #support channel on the 
 [discord](https://discordapp.com/) 
-server. Total supply is 4b of which about 1b is circulating some over 2b will be rewarded to validators as well as contributions and project. Lots of information about the token has been posted on the 
-[official blog](https://constellationlabs.io/blog/) 
-on the official homepage. 
+server. 
 
 ### Wallets
 
@@ -262,11 +260,13 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 - [Kucoin | DAG-ETH](https://www.kucoin.com/#/trade.pro/DAG-ETH)
 - [HitBit | DAG-BTC](https://hitbtc.com/DAG-to-BTC)
 - [HitBit | DAG-ETH](https://hitbtc.com/DAG-to-BTC)
-- also Hotbit, IDEX, DEx.top, Bilaxy, etc.
-
-See the *Markets tab* on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/#markets).
+- also Hotbit, IDEX, DEx.top, Bilaxy, etc. see the *Markets tab* on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/#markets).
 
 ### Tokenomics
+Total supply is 4b of which about 1b is circulating. Of the total supply, 40% will be rewarded to node-operators/validators and some will be rewarded for contribution (so some over 2b are to be distributed). Lots of information about the token has been posted on the 
+[official blog](https://constellationlabs.io/blog/) 
+on the official homepage:
+
 - [blog/tokenomics-update](https://constellationlabs.io/blog/index.php/tokenomics-update/)
 
 ### Airdrop
@@ -306,19 +306,35 @@ For a broad motivation of the project, check out the
 
 ### Employees
 
-[Brion](https://www.linkedin.com/in/brionhickey/),
-[Gina](https://www.linkedin.com/in/ginarubino/),
-[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
-[James](https://www.linkedin.com/in/james-markotic/),
+See the team section on the [homepage](https://constellationlabs.io/):
+
+Altif (CCO),
+Ben (CEO),
+[Brion](https://www.linkedin.com/in/brionhickey/) (VP of Product),
+Emily
+[Gina](https://www.linkedin.com/in/ginarubino/) (Marketing Manager),
 [Mathias](https://www.linkedin.com/in/mathias-goldmann-711a85110/) (Finance, see [introduction video](https://youtu.be/kDI3IKtEmb8))
-[Preston](https://www.linkedin.com/in/prestonparris/) (Dev.),
-[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/) (VP of Eng.),
+[Ryle](https://www.linkedin.com/in/ryle-goehausen-27bb5876/) (VP of Engineering),
+[Scarpulla11](https://www.linkedin.com/in/scarpulla11/) (Staff writer), 
+Shreyas (Community Manager), 
+Sophie,
+Ratul,
 [Tyler](https://www.linkedin.com/in/tylerprete/) (Dev.),
 [Wyatt](https://www.linkedin.com/in/wlmeldmanfloch/) (CTO),
-[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/), 
-as well as 
-[Mr Diggles](https://www.linkedin.com/in/mrdiggles/),
-[scarpulla11](https://www.linkedin.com/in/scarpulla11/), ...
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/) (Head of Marketing), 
+[Mr Diggles](https://www.linkedin.com/in/mrdiggles/)
+
+The list is completed with several advisors and steady open source contributers and administrators.
+
+#### Previous:
+
+Brendon, 
+[Brendan](https://www.linkedin.com/in/brendanplayford/),
+[Giovanni](https://www.linkedin.com/in/giovannigastelum/),
+[Ian](https://www.linkedin.com/in/ismithdrone/)
+[James](https://www.linkedin.com/in/james-markotic/),
+[Preston](https://www.linkedin.com/in/prestonparris/),
+[Sasha](https://www.linkedin.com/in/sashabajzek/)
 
 ### Business
 
