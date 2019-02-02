@@ -20,9 +20,8 @@
 - :loudspeaker:[Media](#merchandise)
 
 ### Wait, there's more ...
-
 This repository provides links to information within the Constellation ecosystem, the primary target audience being software developers and community contributors. 
-As of today (October 2018), our core focus is on developing the protocol. To deep dive into the reference implementation, check out the docs.
+Our core focus is on developing the protocol. To deep dive into the reference implementation, check out the docs.
 If you want to understand how Constellation fits into the crypto space at large, the wiki might be the place to start. 
 
 * [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
@@ -263,11 +262,15 @@ The Ethereum contract hash is `0xA8258AbC8f2811dd48EccD209db68F25E3E34667`.
 - also Hotbit, IDEX, DEx.top, Bilaxy, etc. see the *Markets tab* on [coinmarketcap.com](https://coinmarketcap.com/currencies/constellation/#markets).
 
 ### Tokenomics
-Total supply is 4b of which about 1b is circulating. Of the total supply, 40% will be rewarded to node-operators/validators and some will be rewarded for contribution (so some over 2b are to be distributed). Lots of information about the token has been posted on the 
-[official blog](https://constellationlabs.io/blog/) 
-on the official homepage:
 
-- [blog/tokenomics-update](https://constellationlabs.io/blog/index.php/tokenomics-update/)
+Total supply is 4b of which about 1b is circulating. Of the total supply, 40% will be rewarded to node-operators/validators and some will be rewarded for contribution (so some over 2b are to be distributed). 
+Lots of information about the token has been posted on the 
+[official blog](https://constellationlabs.io/blog/) 
+on the official homepage: 
+[blog/tokenomics-update](https://constellationlabs.io/blog/index.php/tokenomics-update/).
+
+For a discussion of the utility, read the 
+[economic-model paper](https://github.com/Constellation-Labs/economic-model)
 
 ### Airdrop
 
@@ -321,7 +324,6 @@ Sophie,
 Ratul,
 [Tyler](https://www.linkedin.com/in/tylerprete/) (Dev.),
 [Wyatt](https://www.linkedin.com/in/wlmeldmanfloch/) (CTO),
-[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/) (Head of Marketing), 
 [Mr Diggles](https://www.linkedin.com/in/mrdiggles/)
 
 The list is completed with several advisors and steady open source contributers and administrators.
@@ -334,7 +336,8 @@ Brendon,
 [Ian](https://www.linkedin.com/in/ismithdrone/)
 [James](https://www.linkedin.com/in/james-markotic/),
 [Preston](https://www.linkedin.com/in/prestonparris/),
-[Sasha](https://www.linkedin.com/in/sashabajzek/)
+[Sasha](https://www.linkedin.com/in/sashabajzek/),
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/) (Head of Marketing)
 
 ### Business
 
