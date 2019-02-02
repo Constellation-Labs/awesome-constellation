@@ -21,11 +21,12 @@
 
 ### Wait, there's more ...
 This repository provides links to information within the Constellation ecosystem, the primary target audience being software developers and community contributors. 
-Our core focus is on developing the protocol. To deep dive into the reference implementation, check out the docs.
-If you want to understand how Constellation fits into the crypto space at large, the wiki might be the place to start. 
-
-* [constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs)
-* [constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
+Our core focus is on developing the protocol. To deep dive into the reference implementation, check out the 
+[constellation/docs](https://github.com/Constellation-Labs/constellation/tree/dev/docs). 
+The bulk of those docs can also be viewed on our documentation page.
+If you want to understand how Constellation fits into the crypto space at large, the 
+[constellation/wiki](https://github.com/Constellation-Labs/constellation/wiki)
+might be the place to start. 
 
 [comment]: <Note that we link to the development branch here, which is updated more often.>
 
@@ -106,23 +107,10 @@ for contributions and troubleshooting, bug reports, support, etc.
 - [github root](https://github.com/Constellation-Labs) - Official public Constellation repositories.
 - [constellation](https://github.com/Constellation-Labs/constellation) - Core reference implementation in [Scala](https://www.scala-lang.org/).
 
-#### Software dependencies
-
-- [constellation/dev/docs/software-dependencies.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/software-dependencies.md)
-
-Beyond the core implementation of the protocol requiring Java or, if you build it yourself, Scala, possible requirements include
-
-- [docker](https://www.docker.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
-- [vagrant](https://www.vagrantup.com/) - see also [Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
-
 #### Guidelines
 
 For standards on code style, reporting troubleshooting and issues, pull requests and so on, check out
 [/wiki/Contribution-guidelines](https://github.com/Constellation-Labs/constellation/wiki/Contribution-guidelines).
-
-#### Build Instructions
-
-- [constellation/dev/docs/build-instructions.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/build-instructions.md)
 
 ### Running a node (tmp)
 For now we onboard people to our private testnet that apply 
@@ -136,7 +124,7 @@ You find the [**documentation**](https://constellation-labs.github.io/constellat
 
 If you have questions, ask in the *#testnet* chat on [Discord](https://discordapp.com/invite/KMSmXbV). The node-operators discuss know-how and hotfixes in *#node-operators*.
 
-#### Minimal specs
+#### Minimal specs (tmp)
 
 ```haskell
     CPU:       2-core minimum
@@ -145,6 +133,11 @@ If you have questions, ask in the *#testnet* chat on [Discord](https://discordap
     Software:  Java 8.x
 ```
 Make sure the relevant ports are open / not firewalled. 
+
+#### Build Instructions And Software Dependencies (tmp)
+
+- [constellation/dev/docs/build-instructions.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/build-instructions.md)
+- [constellation/dev/docs/software-dependencies.md](https://github.com/Constellation-Labs/constellation/blob/dev/docs/software-dependencies.md)
 
 ### Documentation
 
@@ -198,10 +191,6 @@ We're currently running on a testnet.
 - See also the blockpost [blog/tps-benchmarking](https://constellationlabs.io/blog/index.php/network-stability-update/)
 - For the Etheruem token, see [explorers](#explorers)
 
-#### Code Examples
-
-(tbd)
-
 ### SDK
 
 (tbd)
@@ -212,7 +201,7 @@ We're currently running on a testnet.
 
 - [Scala | Wikipedia](https://en.wikipedia.org/wiki/Scala_(programming_language))
 - [Scala | Official website](https://www.scala-lang.org/)
-- [Akka | Docs](https://akka.io/docs/) - Actor model supporting concurrent computing
+- [Akka | Docs](https://akka.io/docs/) - Actor model supporting concurrent computing that we use in a few places
 
 (todo: Kotlin section, Javascript section,...)
 
@@ -272,13 +261,6 @@ on the official homepage:
 For a discussion of the utility, read the 
 [economic-model paper](https://github.com/Constellation-Labs/economic-model)
 
-### Airdrop
-
-As noted in the 
-[Community section](#community), 
-be aware that there is a 
-[Telegram for Airdrops](https://t.me/constellationcommunityairdrop). 
-
 ---
 
 ## Design
@@ -337,7 +319,7 @@ Brendon,
 [James](https://www.linkedin.com/in/james-markotic/),
 [Preston](https://www.linkedin.com/in/prestonparris/),
 [Sasha](https://www.linkedin.com/in/sashabajzek/),
-[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/) (Head of Marketing)
+[Zac](https://www.linkedin.com/in/zac-russell-62b2a923/)
 
 ### Business
 
@@ -367,10 +349,10 @@ For video and text material from the source, see
 and then the open community section above, e.g. with 
 [Reddit](https://www.reddit.com/r/constellation). 
 Beyond that, there's 
+[Instagram](https://www.instagram.com/constellation_labs),
 [LinkedIn](https://www.linkedin.com/company/constellation-labs/),
 [Twitter](https://twitter.com/conste11ation),
 [Facebook](https://www.facebook.com/Conste11ation),
-[Instagram](https://www.instagram.com/constellation_labs),
 [Quora](https://www.quora.com/profile/Constellation-Labs-1), 
 etc.
 
